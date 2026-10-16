@@ -6,7 +6,7 @@
       "first": null
     },
     "选择": {
-      "total": 73,
+      "total": 75,
       "by_chapter": [
         [
           "ch01.html",
@@ -58,7 +58,7 @@
         ],
         [
           "ch19.html",
-          2
+          4
         ],
         [
           "ch20.html",
@@ -279,7 +279,7 @@
       "first": null
     },
     "诊断": {
-      "total": 116,
+      "total": 124,
       "by_chapter": [
         [
           "ch01.html",
@@ -307,7 +307,7 @@
         ],
         [
           "ch08.html",
-          3
+          8
         ],
         [
           "ch09.html",
@@ -343,7 +343,7 @@
         ],
         [
           "ch19.html",
-          10
+          13
         ],
         [
           "ch20.html",
@@ -371,7 +371,7 @@
       "first": "ch02.html"
     },
     "范式": {
-      "total": 28,
+      "total": 27,
       "by_chapter": [
         [
           "ch01.html",
@@ -387,7 +387,7 @@
         ],
         [
           "ch16.html",
-          19
+          18
         ],
         [
           "ch17.html",
@@ -471,6 +471,7 @@
     "4.2": "ch04.html",
     "4.3": "ch04.html",
     "6.1": "ch06.html",
+    "6.2": "ch06.html",
     "15.1": "ch15.html",
     "19.1": "ch19.html"
   },
@@ -564,6 +565,7 @@
       "ch02.html",
       "ch03.html",
       "ch04.html",
+      "ch19.html",
       "ch20.html"
     ],
     "10": [
@@ -861,10 +863,16 @@
       "ch19.html"
     ],
     "19.5": [
+      "ch06.html",
+      "ch19.html",
+      "ch20.html"
+    ],
+    "19.6": [
       "ch19.html"
     ],
     "2.1": [
       "ch02.html",
+      "ch08.html",
       "ch14.html"
     ],
     "2.2": [
@@ -966,7 +974,8 @@
       "ch19.html"
     ],
     "5.5": [
-      "ch05.html"
+      "ch05.html",
+      "ch19.html"
     ],
     "5.6": [
       "ch05.html"
@@ -975,7 +984,8 @@
       "ch06.html"
     ],
     "6.2": [
-      "ch06.html"
+      "ch06.html",
+      "ch19.html"
     ],
     "6.3": [
       "ch06.html"
