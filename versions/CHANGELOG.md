@@ -2,6 +2,13 @@
 
 > 本文件仅供维护者使用，**不进入发布包**。正文与元数据不含版本号。
 
+## 归档 DOI 回填（2026-10-16）
+
+- 回填 Zenodo DOI：**10.5281/zenodo.23416220**，单一来源同步到
+  `source/front_copyright.html`、`.zenodo.json`、`CITATION.cff`、`README.md`、`AGENTS.md`、
+  `scripts/create_github_release_single.py`。
+- `.zenodo.json` 新增与此前四本书的 related_identifiers（引用关系）。
+
 ## 第八轮：最后几处逻辑澄清（2026-10-16）——然后停笔
 
 外部评审结论与上轮一致：按现状出版。本轮只补了几处逻辑歧义，不增篇幅：

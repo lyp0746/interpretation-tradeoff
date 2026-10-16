@@ -2,7 +2,7 @@
 
 **历史研究中的置信度、权衡与理论流变——从人物还原到范式转移的五个应用**
 
-李毅芃　著　·　2026　·　CC BY 4.0
+李毅芃　著　·　2026　·　CC BY 4.0　·　DOI: [10.5281/zenodo.23416220](https://doi.org/10.5281/zenodo.23416220)
 
 > 本仓库是独立研究系列的第五本专著。前四本见：
 > [错位的时间](https://github.com/lyp0746/entropy-spiral)、
@@ -106,6 +106,7 @@ bash scripts/release.sh    # 组装 release/
 
 ```
 李毅芃. 《诠释的权衡：历史研究中的置信度、权衡与理论流变——从人物还原到范式转移的五个应用》. 2026. CC BY 4.0.
+DOI: 10.5281/zenodo.23416220
 源码：https://github.com/lyp0746/interpretation-tradeoff
 ```
 

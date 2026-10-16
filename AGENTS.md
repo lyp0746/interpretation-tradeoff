@@ -101,4 +101,6 @@ bash scripts/release.sh                        # 组装 release/
 
 ## 版本脉络
 
+- 归档 DOI：**10.5281/zenodo.23416220**（单一来源见 `source/front_copyright.html`、`.zenodo.json`、`CITATION.cff`、`README.md`）。
+
 见 `versions/CHANGELOG.md`（首版）。
