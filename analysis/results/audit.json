@@ -6,7 +6,7 @@
       "first": null
     },
     "选择": {
-      "total": 75,
+      "total": 76,
       "by_chapter": [
         [
           "ch01.html",
@@ -41,27 +41,27 @@
           3
         ],
         [
-          "ch14.html",
-          2
-        ],
-        [
-          "ch16.html",
-          5
+          "ch15.html",
+          3
         ],
         [
           "ch17.html",
-          1
+          5
         ],
         [
           "ch18.html",
-          14
+          1
         ],
         [
           "ch19.html",
-          4
+          14
         ],
         [
           "ch20.html",
+          4
+        ],
+        [
+          "ch21.html",
           9
         ]
       ],
@@ -87,14 +87,14 @@
           1
         ],
         [
-          "ch18.html",
+          "ch19.html",
           1
         ]
       ],
       "first": "ch01.html"
     },
     "可组合性": {
-      "total": 11,
+      "total": 12,
       "by_chapter": [
         [
           "ch01.html",
@@ -117,7 +117,11 @@
           1
         ],
         [
-          "ch18.html",
+          "ch15.html",
+          1
+        ],
+        [
+          "ch19.html",
           2
         ]
       ],
@@ -147,11 +151,11 @@
           1
         ],
         [
-          "ch17.html",
+          "ch18.html",
           1
         ],
         [
-          "ch18.html",
+          "ch19.html",
           2
         ]
       ],
@@ -190,11 +194,11 @@
           1
         ],
         [
-          "ch14.html",
+          "ch15.html",
           3
         ],
         [
-          "ch19.html",
+          "ch20.html",
           1
         ]
       ],
@@ -220,11 +224,11 @@
           2
         ],
         [
-          "ch14.html",
+          "ch15.html",
           2
         ],
         [
-          "ch19.html",
+          "ch20.html",
           1
         ]
       ],
@@ -279,7 +283,7 @@
       "first": null
     },
     "诊断": {
-      "total": 124,
+      "total": 129,
       "by_chapter": [
         [
           "ch01.html",
@@ -331,22 +335,26 @@
         ],
         [
           "ch14.html",
-          33
-        ],
-        [
-          "ch15.html",
-          1
-        ],
-        [
-          "ch18.html",
           3
         ],
         [
+          "ch15.html",
+          35
+        ],
+        [
+          "ch16.html",
+          1
+        ],
+        [
           "ch19.html",
-          13
+          3
         ],
         [
           "ch20.html",
+          13
+        ],
+        [
+          "ch21.html",
           3
         ]
       ],
@@ -371,7 +379,7 @@
       "first": "ch02.html"
     },
     "范式": {
-      "total": 27,
+      "total": 28,
       "by_chapter": [
         [
           "ch01.html",
@@ -387,18 +395,22 @@
         ],
         [
           "ch16.html",
-          18
-        ],
-        [
-          "ch17.html",
           1
         ],
         [
-          "ch19.html",
-          2
+          "ch17.html",
+          18
+        ],
+        [
+          "ch18.html",
+          1
         ],
         [
           "ch20.html",
+          2
+        ],
+        [
+          "ch21.html",
           2
         ]
       ],
@@ -418,19 +430,19 @@
       "total": 3,
       "by_chapter": [
         [
-          "ch14.html",
+          "ch15.html",
           1
         ],
         [
-          "ch16.html",
+          "ch17.html",
           1
         ],
         [
-          "ch19.html",
+          "ch20.html",
           1
         ]
       ],
-      "first": "ch14.html"
+      "first": "ch15.html"
     },
     "证据等级": {
       "total": 3,
@@ -440,7 +452,7 @@
           2
         ],
         [
-          "ch19.html",
+          "ch20.html",
           1
         ]
       ],
@@ -472,8 +484,8 @@
     "4.3": "ch04.html",
     "6.1": "ch06.html",
     "6.2": "ch06.html",
-    "15.1": "ch15.html",
-    "19.1": "ch19.html"
+    "16.1": "ch16.html",
+    "20.1": "ch20.html"
   },
   "A2_formulas_defined": [],
   "A2_formula_refs": {},
@@ -487,17 +499,15 @@
     "12.1",
     "13.1",
     "14.1",
-    "14.2",
-    "14.3",
     "15.1",
     "15.2",
     "15.3",
     "16.1",
+    "16.2",
+    "16.3",
     "17.1",
-    "17.2",
     "18.1",
     "18.2",
-    "18.3",
     "19.1",
     "19.2",
     "19.3",
@@ -506,6 +516,9 @@
     "2.3",
     "2.4",
     "20.1",
+    "20.2",
+    "20.3",
+    "21.1",
     "3.1",
     "3.2",
     "4.1",
@@ -518,12 +531,14 @@
     "7.1",
     "7.2",
     "7.3",
+    "7.4",
+    "7.5",
     "8.1",
     "8.2",
     "9.1"
   ],
   "A3_figures_defined": [
-    "16.1",
+    "17.1",
     "2.1",
     "3.1",
     "4.1",
@@ -534,6 +549,10 @@
   "A3_tables_unreferenced": [],
   "A3_figures_unreferenced": [],
   "A4_c_grade": [
+    {
+      "chapter": "ch06.html",
+      "snippet": "（C 级）"
+    },
     {
       "chapter": "ch06.html",
       "snippet": "（C 级）"
@@ -552,10 +571,18 @@
     },
     {
       "chapter": "ch07.html",
+      "snippet": "（C 级）"
+    },
+    {
+      "chapter": "ch07.html",
+      "snippet": "［论证，C；O25］"
+    },
+    {
+      "chapter": "ch07.html",
       "snippet": "［假说，C；O25］"
     },
     {
-      "chapter": "ch19.html",
+      "chapter": "ch20.html",
       "snippet": "（C 级）"
     }
   ],
@@ -565,8 +592,8 @@
       "ch02.html",
       "ch03.html",
       "ch04.html",
-      "ch19.html",
-      "ch20.html"
+      "ch20.html",
+      "ch21.html"
     ],
     "10": [
       "ch10.html"
@@ -576,45 +603,49 @@
     ],
     "12": [
       "ch12.html",
-      "ch14.html"
+      "ch15.html"
     ],
     "13": [
       "ch13.html"
     ],
     "14": [
-      "ch06.html",
-      "ch13.html",
-      "ch14.html",
-      "ch15.html"
+      "ch14.html"
     ],
     "15": [
-      "ch01.html",
-      "ch15.html"
+      "ch06.html",
+      "ch13.html",
+      "ch15.html",
+      "ch16.html"
     ],
     "16": [
       "ch01.html",
-      "ch16.html",
-      "ch17.html"
+      "ch16.html"
     ],
     "17": [
-      "ch17.html"
+      "ch01.html",
+      "ch17.html",
+      "ch18.html"
     ],
     "18": [
       "ch18.html"
     ],
     "19": [
-      "ch01.html",
-      "ch19.html",
-      "ch20.html"
+      "ch19.html"
     ],
     "2": [
       "ch02.html",
       "ch06.html",
       "ch07.html",
-      "ch15.html"
+      "ch16.html"
     ],
     "20": [
-      "ch20.html"
+      "ch01.html",
+      "ch14.html",
+      "ch20.html",
+      "ch21.html"
+    ],
+    "21": [
+      "ch21.html"
     ],
     "3": [
       "ch01.html",
@@ -626,11 +657,11 @@
       "ch02.html",
       "ch04.html",
       "ch05.html",
-      "ch18.html"
+      "ch19.html"
     ],
     "5": [
       "ch05.html",
-      "ch19.html"
+      "ch20.html"
     ],
     "6": [
       "ch01.html",
@@ -645,7 +676,8 @@
     "8": [
       "ch08.html",
       "ch10.html",
-      "ch12.html"
+      "ch12.html",
+      "ch14.html"
     ],
     "9": [
       "ch09.html"
@@ -747,8 +779,7 @@
       "ch14.html"
     ],
     "14.2": [
-      "ch14.html",
-      "ch20.html"
+      "ch14.html"
     ],
     "14.3": [
       "ch14.html"
@@ -762,14 +793,12 @@
     "14.6": [
       "ch14.html"
     ],
-    "14.7": [
-      "ch14.html"
-    ],
     "15.1": [
       "ch15.html"
     ],
     "15.2": [
-      "ch15.html"
+      "ch15.html",
+      "ch21.html"
     ],
     "15.3": [
       "ch15.html"
@@ -784,6 +813,9 @@
       "ch15.html"
     ],
     "15.7": [
+      "ch15.html"
+    ],
+    "15.8": [
       "ch15.html"
     ],
     "16.1": [
@@ -802,10 +834,12 @@
       "ch16.html"
     ],
     "16.6": [
-      "ch05.html",
       "ch16.html"
     ],
     "16.7": [
+      "ch16.html"
+    ],
+    "16.8": [
       "ch16.html"
     ],
     "17.1": [
@@ -824,6 +858,10 @@
       "ch17.html"
     ],
     "17.6": [
+      "ch05.html",
+      "ch17.html"
+    ],
+    "17.7": [
       "ch17.html"
     ],
     "18.1": [
@@ -848,24 +886,16 @@
       "ch19.html"
     ],
     "19.2": [
-      "ch15.html",
       "ch19.html"
     ],
     "19.3": [
-      "ch16.html",
       "ch19.html"
     ],
     "19.4": [
-      "ch01.html",
-      "ch02.html",
-      "ch04.html",
-      "ch11.html",
       "ch19.html"
     ],
     "19.5": [
-      "ch06.html",
-      "ch19.html",
-      "ch20.html"
+      "ch19.html"
     ],
     "19.6": [
       "ch19.html"
@@ -873,7 +903,7 @@
     "2.1": [
       "ch02.html",
       "ch08.html",
-      "ch14.html"
+      "ch15.html"
     ],
     "2.2": [
       "ch02.html"
@@ -887,7 +917,9 @@
     ],
     "2.5": [
       "ch01.html",
-      "ch02.html"
+      "ch02.html",
+      "ch06.html",
+      "ch14.html"
     ],
     "2.6": [
       "ch02.html"
@@ -899,16 +931,42 @@
       "ch20.html"
     ],
     "20.2": [
+      "ch16.html",
       "ch20.html"
     ],
     "20.3": [
+      "ch17.html",
       "ch20.html"
     ],
     "20.4": [
+      "ch01.html",
+      "ch02.html",
+      "ch04.html",
+      "ch11.html",
       "ch20.html"
     ],
     "20.5": [
+      "ch06.html",
+      "ch20.html",
+      "ch21.html"
+    ],
+    "20.6": [
       "ch20.html"
+    ],
+    "21.1": [
+      "ch21.html"
+    ],
+    "21.2": [
+      "ch21.html"
+    ],
+    "21.3": [
+      "ch21.html"
+    ],
+    "21.4": [
+      "ch21.html"
+    ],
+    "21.5": [
+      "ch21.html"
     ],
     "3.1": [
       "ch03.html"
@@ -927,7 +985,8 @@
     ],
     "3.6": [
       "ch03.html",
-      "ch06.html"
+      "ch06.html",
+      "ch15.html"
     ],
     "3.7": [
       "ch03.html"
@@ -962,20 +1021,21 @@
     "5.2": [
       "ch03.html",
       "ch05.html",
-      "ch19.html"
+      "ch20.html"
     ],
     "5.3": [
       "ch05.html",
-      "ch18.html"
+      "ch19.html"
     ],
     "5.4": [
       "ch01.html",
       "ch05.html",
-      "ch19.html"
+      "ch20.html"
     ],
     "5.5": [
       "ch05.html",
-      "ch19.html"
+      "ch14.html",
+      "ch20.html"
     ],
     "5.6": [
       "ch05.html"
@@ -985,7 +1045,8 @@
     ],
     "6.2": [
       "ch06.html",
-      "ch19.html"
+      "ch15.html",
+      "ch20.html"
     ],
     "6.3": [
       "ch06.html"
@@ -1000,6 +1061,9 @@
       "ch06.html"
     ],
     "6.7": [
+      "ch06.html"
+    ],
+    "6.8": [
       "ch06.html"
     ],
     "7.1": [
@@ -1021,10 +1085,15 @@
       "ch07.html"
     ],
     "7.7": [
+      "ch07.html",
+      "ch15.html"
+    ],
+    "7.8": [
       "ch07.html"
     ],
     "8.1": [
-      "ch08.html"
+      "ch08.html",
+      "ch15.html"
     ],
     "8.2": [
       "ch08.html"
@@ -1112,6 +1181,11 @@
       "snippet": "是置信度分配在中观层面的应用。它借用了容量（编码必然压缩）与权衡（编码越细，T 越高、C 越低），但"
     },
     {
+      "chapter": "ch07.html",
+      "word": "不可避免",
+      "snippet": "这正是第 2 章容量约束在比较研究里的投影：压缩不可避免，但压缩了什么必须写出来。［论证，C；O25］"
+    },
+    {
       "chapter": "ch08.html",
       "word": "必然",
       "snippet": "上选择了一个极难维持的位置：高 C + 高 A，必然让 T。它们留下的，是一套让后世得以提出更可检验"
@@ -1142,47 +1216,47 @@
       "snippet": "、新的政治想象，共同塑造了革命的方向。革命不是“必然发生”的，而是一系列政治选择的结果。\n\n这一派的"
     },
     {
-      "chapter": "ch14.html",
+      "chapter": "ch15.html",
       "word": "必然",
       "snippet": "苏联为什么解体\n清晰论（C 高）把解体归给制度的必然衰落——计划体制的信息与激励缺陷长期积累，崩溃是"
     },
     {
-      "chapter": "ch14.html",
+      "chapter": "ch15.html",
       "word": "必然",
       "snippet": "3.3　民族主义为何兴起\n清晰论把它当作现代性的必然产物；平衡论把印刷、教育、国家建设、工业动员并列"
     },
     {
-      "chapter": "ch15.html",
+      "chapter": "ch16.html",
       "word": "必然",
       "snippet": "我豁免地图本身也是高 C + 高 A 的产物，也必然让出 T\n\n\n三项代价为自我批评（论证，B／乙）"
     },
     {
-      "chapter": "ch16.html",
+      "chapter": "ch17.html",
       "word": "必然",
       "snippet": "时代发生了什么”。这不是研究者短视，而是约束下的必然取舍——把大问题交给微观方法，反而会产生一堆积木"
     },
     {
-      "chapter": "ch16.html",
+      "chapter": "ch17.html",
       "word": "必然",
       "snippet": "宏观的多维视野，又有可核对的物质细节。按三角，这必然让出 C。它们目前确实难以给出清晰的因果结论，而"
     },
     {
-      "chapter": "ch17.html",
+      "chapter": "ch18.html",
       "word": "必然",
       "snippet": "三角的不同顶点，因此“跨学科对话”在方法层面几乎必然冲突。出路不是统一，而是显式标注各自的顶点，再做"
     },
     {
-      "chapter": "ch17.html",
+      "chapter": "ch18.html",
       "word": "必然",
       "snippet": "保住各顶点的独立性（A）与各自的可靠性（C），就必然让出“一个统一结论”的传递性（T）。\n\n与第 1"
     },
     {
-      "chapter": "ch17.html",
+      "chapter": "ch18.html",
       "word": "不可避免",
       "snippet": "O20］\n\n\n下一章处理一个规范问题：既然选择不可避免，诠释者应当承担什么责任？"
     },
     {
-      "chapter": "ch18.html",
+      "chapter": "ch19.html",
       "word": "必然",
       "snippet": "：从“客观性”到“标注选择”\n\n如果每一种诠释都必然做选择，那么评价一个诠释的标准就不能只是“它是否"
     }
