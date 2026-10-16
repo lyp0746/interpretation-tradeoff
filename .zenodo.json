@@ -4,7 +4,7 @@
   "creators": [
     {
       "name": "李毅芃",
-      "affiliation": "独立研究者",
+      "affiliation": "独立研究者 / Independent Researcher",
       "email": "1610369302@qq.com"
     }
   ],
@@ -57,7 +57,13 @@
       "relation": "references",
       "scheme": "doi",
       "resource_type": "publication-book"
+    },
+    {
+      "identifier": "https://github.com/lyp0746/knowledge-tradeoffs",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
     }
   ],
-  "notes": "Zenodo DOI: 10.5281/zenodo.23416220。与作者此前四本书构成同一研究系列；本书有自己独立的核心（诠释即置信度的分配），四个概念（容量、权衡、时间、区分）只与四本书相连、建立联系，不依赖其结论。"
+  "notes": "Zenodo DOI: 10.5281/zenodo.23416220。与作者此前四本书构成同一研究系列；本书有自己独立的核心（诠释即置信度的分配），四个概念（容量、权衡、时间、区分）只与四本书相连、建立联系，不依赖其结论。",
+  "publication_date": "2026-10-16"
 }

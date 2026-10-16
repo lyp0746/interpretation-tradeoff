@@ -13,7 +13,6 @@ authors:
     email: "1610369302@qq.com"
 type: book
 license: CC-BY-4.0
-version: "1"
 date-released: "2026-10-16"
 doi: "10.5281/zenodo.23416220"
 repository-code: "https://github.com/lyp0746/interpretation-tradeoff"
