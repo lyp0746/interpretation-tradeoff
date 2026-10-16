@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 340" width="880" height="340">
+<style>text{font-family:"Microsoft YaHei","SimHei",Arial,sans-serif;}.t{font-size:17px;fill:#222222;font-weight:700;}.b{font-size:14px;fill:#222222;font-weight:700;}.s{font-size:12px;fill:#555555;}.cap{font-size:13px;fill:#555555;}</style>
+<rect x="0" y="0" width="880" height="340" fill="#ffffff"/>
+<text x="440.0" y="30" class="t" text-anchor="middle">框架适用性矩阵</text>
+<rect x="60" y="62" width="520" height="38" rx="6" fill="#009E73" fill-opacity="0.08" stroke="#009E73" stroke-width="1.2"/>
+<text x="76" y="87" class="b">适用于西方现代史学传统</text>
+<circle cx="620" cy="81" r="15" fill="#009E73" fill-opacity="0.15" stroke="#009E73" stroke-width="1.4"/>
+<text x="620" y="87" class="b" fill="#009E73" text-anchor="middle">✔</text>
+<text x="650" y="87" class="s">六场诊断</text>
+<rect x="60" y="110" width="520" height="38" rx="6" fill="#b8862f" fill-opacity="0.08" stroke="#b8862f" stroke-width="1.2"/>
+<text x="76" y="135" class="b">适用于同一传统内的不同学科</text>
+<circle cx="620" cy="129" r="15" fill="#b8862f" fill-opacity="0.15" stroke="#b8862f" stroke-width="1.4"/>
+<text x="620" y="135" class="b" fill="#b8862f" text-anchor="middle">◐</text>
+<text x="650" y="135" class="s">第 18 章</text>
+<rect x="60" y="158" width="520" height="38" rx="6" fill="#b8862f" fill-opacity="0.08" stroke="#b8862f" stroke-width="1.2"/>
+<text x="76" y="183" class="b">适用于非西方学术传统</text>
+<circle cx="620" cy="177" r="15" fill="#b8862f" fill-opacity="0.15" stroke="#b8862f" stroke-width="1.4"/>
+<text x="620" y="183" class="b" fill="#b8862f" text-anchor="middle">◐</text>
+<text x="650" y="183" class="s">唐宋变革（A 带 B）</text>
+<rect x="60" y="206" width="520" height="38" rx="6" fill="#c94f4f" fill-opacity="0.08" stroke="#c94f4f" stroke-width="1.2"/>
+<text x="76" y="231" class="b">适用于不以因果组织的传统</text>
+<circle cx="620" cy="225" r="15" fill="#c94f4f" fill-opacity="0.15" stroke="#c94f4f" stroke-width="1.4"/>
+<text x="620" y="231" class="b" fill="#c94f4f" text-anchor="middle">✘</text>
+<text x="650" y="231" class="s">警告 14.1</text>
+<rect x="60" y="254" width="520" height="38" rx="6" fill="#666666" fill-opacity="0.08" stroke="#666666" stroke-width="1.2"/>
+<text x="76" y="279" class="b">适用于质性 / 建模的权衡差异</text>
+<circle cx="620" cy="273" r="15" fill="#666666" fill-opacity="0.15" stroke="#666666" stroke-width="1.4"/>
+<text x="620" y="279" class="b" fill="#666666" text-anchor="middle">✘</text>
+<text x="650" y="279" class="s">仅论证，无检验</text>
+<line x1="60" y1="308" x2="820" y2="308" stroke="#666666" stroke-width="1" opacity="0.5"/>
+<text x="440.0" y="332" class="cap" text-anchor="middle">✔ 基本成立 · ◐ 部分支持 · ✘ 未验证——越往下证据越薄，正是可接手之处（O32、O9）</text>
+</svg>

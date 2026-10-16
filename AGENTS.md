@@ -21,6 +21,7 @@ GIT="/mnt/d/Git/cmd/git.exe"
 "$PY" analysis/make_cover.py                  # 生成 assets/svg/cover.svg
 "$PY" analysis/make_figures.py                # 第一批正文配图（5 幅）
 "$PY" analysis/make_figures2.py               # 第二批正文配图（10 幅）
+"$PY" analysis/make_figures3.py               # 第三批正文配图（2 幅）
 "$PY" analysis/audit.py                        # 校对 → 刷新 校对清单.md
 "$PY" analysis/preregistration_checkup.py      # 校验 append-only 登记账本
 bash scripts/build.sh                          # 校对→印刷PDF→电子阅读PDF→EPUB→Markdown
@@ -96,7 +97,7 @@ bash scripts/release.sh                        # 组装 release/
 - **地域退化**（第 15.5 节、O32）：七场中六场为西方中心。
 - **约束+权力**（第 17.6 节）：约束限定成本-收益空间，空间内胜负由权力分配决定。
 - **锚点↔数字刻度**（附录 A、表 A.3b）：三档对应 0—100 自评刻度（非频率、不相加）。
-- **插图**：正文 15 幅 SVG（fig01—fig15），由 `analysis/make_figures.py` 与 `make_figures2.py` 生成；每图均在正文引用。
+- **插图**：正文 17 幅 SVG（fig01—fig17），由 `analysis/make_figures.py` 与 `make_figures2.py` 生成；每图均在正文引用。
 - **停笔点**（versions/CHANGELOG 第七轮）：按外部评审建议，不再增加篇幅内容，
   下一轮迭代交给读者与批评者。
 - **术语总表**：`source/front_terms.html`（唯一术语总表，含英文原文）；正文不另设重复定义。

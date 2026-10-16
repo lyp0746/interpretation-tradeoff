@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 470" width="780" height="470">
+<style>text{font-family:"Microsoft YaHei","SimHei",Arial,sans-serif;}.t{font-size:17px;fill:#222222;font-weight:700;}.b{font-size:14px;fill:#222222;font-weight:700;}.s{font-size:12px;fill:#555555;}.cap{font-size:13px;fill:#555555;}</style>
+<rect x="0" y="0" width="780" height="470" fill="#ffffff"/>
+<text x="390" y="30" class="t" text-anchor="middle">唐宋变革三派在坐标上的位置</text>
+<polygon points="390.0,85.0 247.1,332.5 532.9,332.5" fill="none" stroke="#666666" stroke-width="1.6"/>
+<circle cx="390.0" cy="85.0" r="9" fill="#3a6ea5"/>
+<text x="390" y="43" class="b" fill="#3a6ea5" text-anchor="middle">C 完备</text>
+<text x="390" y="61" class="s" text-anchor="middle">唐宋变革论</text>
+<text x="390" y="79" class="s" fill="#3a6ea5" text-anchor="middle">让出 A</text>
+<circle cx="247.1" cy="332.5" r="9" fill="#009E73"/>
+<text x="177" y="362" class="b" fill="#009E73" text-anchor="middle">A 可组合</text>
+<text x="177" y="380" class="s" text-anchor="middle">多维转变论</text>
+<text x="177" y="398" class="s" fill="#009E73" text-anchor="middle">让出 C</text>
+<circle cx="532.9" cy="332.5" r="9" fill="#b8862f"/>
+<text x="603" y="362" class="b" fill="#b8862f" text-anchor="middle">T 传递</text>
+<text x="603" y="380" class="s" text-anchor="middle">过渡与延续论</text>
+<text x="603" y="398" class="s" fill="#b8862f" text-anchor="middle">让出 C</text>
+<text x="390" y="254" class="s" text-anchor="middle">预先登记：A / B / C</text>
+<text x="390" y="274" class="s" text-anchor="middle">结果：A 带 B 的尾巴</text>
+<text x="390" y="452" class="cap" text-anchor="middle">三角形状重现，但 C 的读法变模糊——“分期标准”本身成为分歧的核心</text>
+</svg>
