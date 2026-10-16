@@ -38,6 +38,7 @@ FRONT = [("先读这一页　三条可检验的诊断", "front_hardcore.html", "
          ("读者指南　按角色选择阅读路径", "front_roadmap.html", "roadmap"),
          ("术语、记号与断言分级速查", "front_terms.html", "terms")]
 BACK = [("结语　把价目表带到你的书桌上", "back_epilogue.html", "epilogue"),
+        ("附　通俗读本《只能选两样》导引", "back_popular_guide.html", "popguide"),
         ("附录 A　诊断评分规则与 C-A-T 判定标准", "appendix_a_rubric.html", "apxA"),
         ("附录 B　三十场争论的完整坐标表", "appendix_b_coords.html", "apxB"),
         ("附录 C　参考文献", "appendix_c_references.html", "apxC"),
