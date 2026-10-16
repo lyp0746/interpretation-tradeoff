@@ -201,7 +201,7 @@
       "first": "ch01.html"
     },
     "容量级联": {
-      "total": 14,
+      "total": 15,
       "by_chapter": [
         [
           "ch02.html",
@@ -209,7 +209,7 @@
         ],
         [
           "ch03.html",
-          3
+          4
         ],
         [
           "ch05.html",
@@ -292,7 +292,7 @@
       "first": null
     },
     "诊断": {
-      "total": 94,
+      "total": 95,
       "by_chapter": [
         [
           "ch01.html",
@@ -304,7 +304,7 @@
         ],
         [
           "ch03.html",
-          8
+          9
         ],
         [
           "ch04.html",
@@ -521,6 +521,7 @@
     "1": [
       "ch01.html",
       "ch02.html",
+      "ch03.html",
       "ch04.html",
       "ch17.html"
     ],
