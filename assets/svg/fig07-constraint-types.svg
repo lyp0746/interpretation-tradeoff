@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 300" width="860" height="300">
+<style>text{font-family:"Microsoft YaHei","SimHei",Arial,sans-serif;}.t{font-size:17px;fill:#222222;font-weight:700;}.b{font-size:14px;fill:#222222;font-weight:700;}.s{font-size:12px;fill:#555555;}.cap{font-size:13px;fill:#555555;}</style>
+<rect x="0" y="0" width="860" height="300" fill="#ffffff"/>
+<text x="430.0" y="30" class="t" text-anchor="middle">约束的三种类型：来源不同，后果不同</text>
+<rect x="40" y="60" width="150" height="56" rx="6" fill="#3a6ea5" fill-opacity="0.12" stroke="#3a6ea5" stroke-width="1.5"/>
+<text x="115" y="94" class="b" fill="#3a6ea5" text-anchor="middle">认知性</text>
+<text x="215" y="84" class="b">容量、时间</text>
+<text x="215" y="106" class="s">研究者一侧：注意力与时长有限</text>
+<text x="560" y="84" class="s">后果：</text>
+<text x="610" y="84" class="s">工具可缓解，不会消失</text>
+<rect x="40" y="132" width="150" height="56" rx="6" fill="#c94f4f" fill-opacity="0.12" stroke="#c94f4f" stroke-width="1.5"/>
+<text x="115" y="166" class="b" fill="#c94f4f" text-anchor="middle">逻辑性</text>
+<text x="215" y="156" class="b">权衡</text>
+<text x="215" y="178" class="s">概念结构：三性质定义上互斥</text>
+<text x="560" y="156" class="s">后果：</text>
+<text x="610" y="156" class="s">不可缓解，只能选择</text>
+<rect x="40" y="204" width="150" height="56" rx="6" fill="#b8862f" fill-opacity="0.12" stroke="#b8862f" stroke-width="1.5"/>
+<text x="115" y="238" class="b" fill="#b8862f" text-anchor="middle">符号性</text>
+<text x="215" y="228" class="b">区分</text>
+<text x="215" y="250" class="s">符号系统：意义需要边界</text>
+<text x="560" y="228" class="s">后果：</text>
+<text x="610" y="228" class="s">可用新形式化移动，但引入新边界</text>
+<text x="430.0" y="292" class="cap" text-anchor="middle">三者并置的理由：都作用于同一个操作——置信度的分配</text>
+</svg>

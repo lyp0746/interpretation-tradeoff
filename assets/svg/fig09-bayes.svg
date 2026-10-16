@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 250" width="820" height="250">
+<style>text{font-family:"Microsoft YaHei","SimHei",Arial,sans-serif;}.t{font-size:17px;fill:#222222;font-weight:700;}.b{font-size:14px;fill:#222222;font-weight:700;}.s{font-size:12px;fill:#555555;}.cap{font-size:13px;fill:#555555;}</style>
+<rect x="0" y="0" width="820" height="250" fill="#ffffff"/>
+<text x="410.0" y="30" class="t" text-anchor="middle">一次带先验的更新</text>
+<rect x="70" y="70" width="180" height="90" rx="8" fill="#3a6ea5" fill-opacity="0.12" stroke="#3a6ea5" stroke-width="1.6"/>
+<text x="160" y="98" class="b" fill="#3a6ea5" text-anchor="middle">先验</text>
+<text x="160" y="122" class="s" text-anchor="middle">读材料前的把握</text>
+<text x="160" y="140" class="s" text-anchor="middle">（基础率、机会、传统）</text>
+<rect x="320" y="70" width="180" height="90" rx="8" fill="#b8862f" fill-opacity="0.12" stroke="#b8862f" stroke-width="1.6"/>
+<text x="410" y="98" class="b" fill="#b8862f" text-anchor="middle">证据 E</text>
+<text x="410" y="122" class="s" text-anchor="middle">似然：</text>
+<text x="410" y="140" class="s" text-anchor="middle">H 成立 / 不成立时 E 出现的可能</text>
+<rect x="570" y="70" width="180" height="90" rx="8" fill="#009E73" fill-opacity="0.12" stroke="#009E73" stroke-width="1.6"/>
+<text x="660" y="98" class="b" fill="#009E73" text-anchor="middle">后验</text>
+<text x="660" y="122" class="s" text-anchor="middle">更新后的置信度</text>
+<text x="660" y="140" class="s" text-anchor="middle">+ 它依赖哪些假设</text>
+<line x1="252" y1="115" x2="318" y2="115" stroke="#666666" stroke-width="1.5"/><polygon points="318,115 311,118 311,112" fill="#666666"/>
+<line x1="502" y1="115" x2="568" y2="115" stroke="#666666" stroke-width="1.5"/><polygon points="568,115 561,118 561,112" fill="#666666"/>
+<text x="410.0" y="205" class="cap" text-anchor="middle">历史中先验与似然都是判断，不是测量；贝叶斯在此是记账纪律，不是计算器</text>
+</svg>

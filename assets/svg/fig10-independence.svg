@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 300" width="860" height="300">
+<style>text{font-family:"Microsoft YaHei","SimHei",Arial,sans-serif;}.t{font-size:17px;fill:#222222;font-weight:700;}.b{font-size:14px;fill:#222222;font-weight:700;}.s{font-size:12px;fill:#555555;}.cap{font-size:13px;fill:#555555;}</style>
+<rect x="0" y="0" width="860" height="300" fill="#ffffff"/>
+<text x="430.0" y="28" class="t" text-anchor="middle">独立证据与假增强</text>
+<text x="210" y="60" class="b" fill="#c94f4f" text-anchor="middle">假增强（共享来源）</text>
+<circle cx="120" cy="110" r="26" fill="#c94f4f" fill-opacity="0.12" stroke="#c94f4f" stroke-width="1.4"/>
+<text x="120" y="115" class="s" text-anchor="middle">E1</text>
+<circle cx="200" cy="110" r="26" fill="#c94f4f" fill-opacity="0.12" stroke="#c94f4f" stroke-width="1.4"/>
+<text x="200" y="115" class="s" text-anchor="middle">E3</text>
+<circle cx="280" cy="110" r="26" fill="#c94f4f" fill-opacity="0.12" stroke="#c94f4f" stroke-width="1.4"/>
+<text x="280" y="115" class="s" text-anchor="middle">E5</text>
+<text x="210" y="160" class="s" text-anchor="middle">都指向同一原始来源</text>
+<text x="210" y="182" class="s" text-anchor="middle">→ 只算一次支持</text>
+<text x="650" y="60" class="b" fill="#009E73" text-anchor="middle">独立证据</text>
+<circle cx="560" cy="110" r="26" fill="#009E73" fill-opacity="0.12" stroke="#009E73" stroke-width="1.4"/>
+<text x="560" y="115" class="s" text-anchor="middle">E1</text>
+<circle cx="650" cy="110" r="26" fill="#009E73" fill-opacity="0.12" stroke="#009E73" stroke-width="1.4"/>
+<text x="650" y="115" class="s" text-anchor="middle">E2</text>
+<circle cx="740" cy="110" r="26" fill="#009E73" fill-opacity="0.12" stroke="#009E73" stroke-width="1.4"/>
+<text x="740" y="115" class="s" text-anchor="middle">E4</text>
+<text x="650" y="160" class="s" text-anchor="middle">来源互不依赖</text>
+<text x="650" y="182" class="s" text-anchor="middle">→ 分别移动置信度</text>
+<line x1="430" y1="60" x2="430" y2="200" stroke="#666666" stroke-width="1" stroke-dasharray="5,4" opacity="0.5"/>
+<text x="430.0" y="250" class="cap" text-anchor="middle">两条真正独立的支持，比十条互相抄录的支持更有力量</text>
+</svg>

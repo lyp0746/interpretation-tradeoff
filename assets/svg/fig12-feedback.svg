@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 320" width="820" height="320">
+<style>text{font-family:"Microsoft YaHei","SimHei",Arial,sans-serif;}.t{font-size:17px;fill:#222222;font-weight:700;}.b{font-size:14px;fill:#222222;font-weight:700;}.s{font-size:12px;fill:#555555;}.cap{font-size:13px;fill:#555555;}</style>
+<rect x="0" y="0" width="820" height="320" fill="#ffffff"/>
+<text x="410.0" y="28" class="t" text-anchor="middle">应用之间如何互馈：三个回路</text>
+<circle cx="410" cy="90" r="30" fill="#3a6ea5" fill-opacity="0.10" stroke="#3a6ea5" stroke-width="1.6"/>
+<text x="410" y="96" class="b" text-anchor="middle">应用一</text>
+<circle cx="180" cy="230" r="30" fill="#3a6ea5" fill-opacity="0.10" stroke="#3a6ea5" stroke-width="1.6"/>
+<text x="180" y="236" class="b" text-anchor="middle">应用二</text>
+<circle cx="640" cy="230" r="30" fill="#3a6ea5" fill-opacity="0.10" stroke="#3a6ea5" stroke-width="1.6"/>
+<text x="640" y="236" class="b" text-anchor="middle">应用三</text>
+<circle cx="410" cy="270" r="30" fill="#3a6ea5" fill-opacity="0.10" stroke="#3a6ea5" stroke-width="1.6"/>
+<text x="410" y="276" class="b" text-anchor="middle">应用四</text>
+<line x1="210" y1="205" x2="385" y2="115" stroke="#b8862f" stroke-width="1.5"/><polygon points="385,115 380,121 377,116" fill="#b8862f"/>
+<text x="150" y="150" class="s" fill="#b8862f">①人物↔争论</text>
+<line x1="215" y1="240" x2="610" y2="240" stroke="#009E73" stroke-width="1.5"/><polygon points="610,240 603,243 603,237" fill="#009E73"/>
+<text x="410" y="232" class="s" fill="#009E73">②制度↔争论</text>
+<line x1="410" y1="240" x2="410" y2="125" stroke="#c94f4f" stroke-width="1.5"/><polygon points="410,125 413,132 407,132" fill="#c94f4f"/>
+<text x="420" y="200" class="s" fill="#c94f4f">③理论→人物</text>
+<text x="410.0" y="308" class="cap" text-anchor="middle">五个应用不是五个独立案例，而是一个带反馈的系统</text>
+</svg>

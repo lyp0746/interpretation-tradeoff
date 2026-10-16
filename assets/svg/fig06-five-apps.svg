@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260">
+<style>text{font-family:"Microsoft YaHei","SimHei",Arial,sans-serif;}.t{font-size:17px;fill:#222222;font-weight:700;}.b{font-size:14px;fill:#222222;font-weight:700;}.s{font-size:12px;fill:#555555;}.cap{font-size:13px;fill:#555555;}</style>
+<rect x="0" y="0" width="900" height="260" fill="#ffffff"/>
+<text x="450.0" y="30" class="t" text-anchor="middle">五个应用：由深而广</text>
+<circle cx="80" cy="120" r="34" fill="#3a6ea5" fill-opacity="0.12" stroke="#3a6ea5" stroke-width="1.8"/>
+<text x="80" y="126" class="b" fill="#3a6ea5" text-anchor="middle" font-size="20">一</text>
+<text x="80" y="180" class="b" text-anchor="middle">人物与事件</text>
+<text x="80" y="200" class="s" text-anchor="middle">贝叶斯·置信度</text>
+<line x1="118" y1="120" x2="210" y2="120" stroke="#666666" stroke-width="1.4"/><polygon points="210,120 203,123 203,117" fill="#666666"/>
+<circle cx="248" cy="120" r="34" fill="#009E73" fill-opacity="0.12" stroke="#009E73" stroke-width="1.8"/>
+<text x="248" y="126" class="b" fill="#009E73" text-anchor="middle" font-size="20">二</text>
+<text x="248" y="180" class="b" text-anchor="middle">跨文明制度</text>
+<text x="248" y="200" class="s" text-anchor="middle">数据分析</text>
+<line x1="286" y1="120" x2="378" y2="120" stroke="#666666" stroke-width="1.4"/><polygon points="378,120 371,123 371,117" fill="#666666"/>
+<circle cx="416" cy="120" r="34" fill="#b8862f" fill-opacity="0.12" stroke="#b8862f" stroke-width="1.8"/>
+<text x="416" y="126" class="b" fill="#b8862f" text-anchor="middle" font-size="20">三</text>
+<text x="416" y="180" class="b" text-anchor="middle">既有争论</text>
+<text x="416" y="200" class="s" text-anchor="middle">分析还原论</text>
+<line x1="454" y1="120" x2="546" y2="120" stroke="#666666" stroke-width="1.4"/><polygon points="546,120 539,123 539,117" fill="#666666"/>
+<circle cx="584" cy="120" r="34" fill="#c94f4f" fill-opacity="0.12" stroke="#c94f4f" stroke-width="1.8"/>
+<text x="584" y="126" class="b" fill="#c94f4f" text-anchor="middle" font-size="20">四</text>
+<text x="584" y="180" class="b" text-anchor="middle">历史理论</text>
+<text x="584" y="200" class="s" text-anchor="middle">综合分析</text>
+<line x1="622" y1="120" x2="714" y2="120" stroke="#666666" stroke-width="1.4"/><polygon points="714,120 707,123 707,117" fill="#666666"/>
+<circle cx="752" cy="120" r="34" fill="#666666" fill-opacity="0.12" stroke="#666666" stroke-width="1.8"/>
+<text x="752" y="126" class="b" fill="#666666" text-anchor="middle" font-size="20">五</text>
+<text x="752" y="180" class="b" text-anchor="middle">理论流变</text>
+<text x="752" y="200" class="s" text-anchor="middle">范式转移</text>
+<line x1="60" y1="232" x2="840" y2="232" stroke="#666666" stroke-width="1" opacity="0.5"/>
+<text x="60" y="250" class="s">单位：一个人 → 一个制度 → 一场争论 → 一个理论 → 一门学科（尺度递增）</text>
+</svg>

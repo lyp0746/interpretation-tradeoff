@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 280" width="880" height="280">
+<style>text{font-family:"Microsoft YaHei","SimHei",Arial,sans-serif;}.t{font-size:17px;fill:#222222;font-weight:700;}.b{font-size:14px;fill:#222222;font-weight:700;}.s{font-size:12px;fill:#555555;}.cap{font-size:13px;fill:#555555;}</style>
+<rect x="0" y="0" width="880" height="280" fill="#ffffff"/>
+<text x="440.0" y="28" class="t" text-anchor="middle">框架放大的四种退化</text>
+<rect x="50" y="60" width="185" height="120" rx="8" fill="#3a6ea5" fill-opacity="0.10" stroke="#3a6ea5" stroke-width="1.5"/>
+<text x="142" y="90" class="b" fill="#3a6ea5" text-anchor="middle">维度退化</text>
+<text x="142" y="120" class="s" text-anchor="middle">τ 无法在 300 字内估计</text>
+<text x="142" y="140" class="s" text-anchor="middle">四维→三维</text>
+<rect x="260" y="60" width="185" height="120" rx="8" fill="#009E73" fill-opacity="0.10" stroke="#009E73" stroke-width="1.5"/>
+<text x="352" y="90" class="b" fill="#009E73" text-anchor="middle">证据退化</text>
+<text x="352" y="120" class="s" text-anchor="middle">只剩档位，无原文证据</text>
+<text x="352" y="140" class="s" text-anchor="middle">诊断→提问清单</text>
+<rect x="470" y="60" width="185" height="120" rx="8" fill="#c94f4f" fill-opacity="0.10" stroke="#c94f4f" stroke-width="1.5"/>
+<text x="562" y="90" class="b" fill="#c94f4f" text-anchor="middle">结构退化</text>
+<text x="562" y="120" class="s" text-anchor="middle">自由度超约束</text>
+<text x="562" y="140" class="s" text-anchor="middle">失去可证伪性</text>
+<rect x="680" y="60" width="185" height="120" rx="8" fill="#b8862f" fill-opacity="0.10" stroke="#b8862f" stroke-width="1.5"/>
+<text x="772" y="90" class="b" fill="#b8862f" text-anchor="middle">地域退化</text>
+<text x="772" y="120" class="s" text-anchor="middle">七场中六场西方中心</text>
+<text x="772" y="140" class="s" text-anchor="middle">通用性未检验</text>
+<text x="440.0" y="220" class="cap" text-anchor="middle">前两种是技术性的，后两种是结构性的——“扩大应用”不等于“扩大宣称”</text>
+</svg>

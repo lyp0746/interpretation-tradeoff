@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 300" width="820" height="300">
+<style>text{font-family:"Microsoft YaHei","SimHei",Arial,sans-serif;}.t{font-size:17px;fill:#222222;font-weight:700;}.b{font-size:14px;fill:#222222;font-weight:700;}.s{font-size:12px;fill:#555555;}.cap{font-size:13px;fill:#555555;}</style>
+<rect x="0" y="0" width="820" height="300" fill="#ffffff"/>
+<text x="410.0" y="28" class="t" text-anchor="middle">集权度随政权生命周期变化（示意）</text>
+<line x1="90" y1="210" x2="710" y2="210" stroke="#666666" stroke-width="1.2"/>
+<line x1="90" y1="210" x2="90" y2="60" stroke="#666666" stroke-width="1.2"/>
+<text x="78" y="64" class="s" text-anchor="end">高</text>
+<text x="78" y="206" class="s" text-anchor="end">低</text>
+<text x="130" y="230" class="s" text-anchor="middle">兴起</text>
+<text x="400" y="230" class="s" text-anchor="middle">盛期</text>
+<text x="670" y="230" class="s" text-anchor="middle">晚期</text>
+<polyline points="90.0,203.9 105.5,201.8 121.0,199.0 136.5,195.6 152.0,191.3 167.5,186.2 183.0,180.2 198.5,173.1 214.0,165.2 229.5,156.4 245.0,146.8 260.5,136.7 276.0,126.3 291.5,115.9 307.0,105.8 322.5,96.5 338.0,88.2 353.5,81.4 369.0,76.2 384.5,73.1 400.0,72.0 415.5,73.1 431.0,76.2 446.5,81.4 462.0,88.2 477.5,96.5 493.0,105.8 508.5,115.9 524.0,126.3 539.5,136.7 555.0,146.8 570.5,156.4 586.0,165.2 601.5,173.1 617.0,180.2 632.5,186.2 648.0,191.3 663.5,195.6 679.0,199.0 694.5,201.8 710.0,203.9" fill="none" stroke="#3a6ea5" stroke-width="2.4"/>
+<text x="400" y="68" class="s" fill="#3a6ea5" text-anchor="middle">集权度</text>
+<text x="410.0" y="270" class="cap" text-anchor="middle">集权不是静态属性，而是曲线——用一个值比较政权，等于把曲线压成一个点</text>
+</svg>

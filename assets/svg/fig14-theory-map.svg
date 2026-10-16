@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420">
+<style>text{font-family:"Microsoft YaHei","SimHei",Arial,sans-serif;}.t{font-size:17px;fill:#222222;font-weight:700;}.b{font-size:14px;fill:#222222;font-weight:700;}.s{font-size:12px;fill:#555555;}.cap{font-size:13px;fill:#555555;}</style>
+<rect x="0" y="0" width="900" height="420" fill="#ffffff"/>
+<text x="450.0" y="28" class="t" text-anchor="middle">十种历史理论的定位地图（示意）</text>
+<line x1="90" y1="360" x2="810" y2="360" stroke="#666666" stroke-width="1.2"/>
+<line x1="90" y1="360" x2="90" y2="70" stroke="#666666" stroke-width="1.2"/>
+<text x="810" y="382" class="s" text-anchor="end">A 可组合（维度丰富）→</text>
+<text x="30" y="74" class="s">↑ C 因果清晰</text>
+<circle cx="198" cy="93" r="5" fill="#3a6ea5"/>
+<text x="198" y="84" class="s" text-anchor="middle">宏大叙事</text>
+<circle cx="306" cy="105" r="5" fill="#3a6ea5"/>
+<text x="306" y="96" class="s" text-anchor="middle">历史唯物</text>
+<circle cx="234" cy="128" r="5" fill="#3a6ea5"/>
+<text x="234" y="119" class="s" text-anchor="middle">计量史学</text>
+<circle cx="666" cy="230" r="5" fill="#009E73"/>
+<text x="666" y="220" class="s" text-anchor="middle">年鉴学派</text>
+<circle cx="652" cy="200" r="5" fill="#009E73"/>
+<text x="652" y="192" class="s" text-anchor="middle">世界体系</text>
+<circle cx="608" cy="258" r="5" fill="#009E73"/>
+<text x="608" y="250" class="s" text-anchor="middle">新文化史</text>
+<circle cx="414" cy="316" r="5" fill="#b8862f"/>
+<text x="414" y="308" class="s" text-anchor="middle">微观史</text>
+<circle cx="536" cy="308" r="5" fill="#b8862f"/>
+<text x="536" y="299" class="s" text-anchor="middle">全球微观史</text>
+<circle cx="666" cy="302" r="5" fill="#b8862f"/>
+<text x="666" y="293" class="s" text-anchor="middle">物质转向</text>
+<circle cx="486" cy="273" r="5" fill="#c94f4f"/>
+<text x="486" y="264" class="s" text-anchor="middle">语言学转向</text>
+<text x="450.0" y="412" class="cap" text-anchor="middle">每个理论占一个位置、让出一个顶点；地图标位置，不解释内容</text>
+</svg>
