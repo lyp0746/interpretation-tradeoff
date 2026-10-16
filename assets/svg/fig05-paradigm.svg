@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400">
+<style>text{font-family:"Microsoft YaHei","SimHei",Arial,sans-serif;}.t{font-size:18px;fill:#222222;}.s{font-size:14px;fill:#555555;}.b{font-size:15px;font-weight:700;}.cap{font-size:16px;fill:#555555;}</style>
+<rect x="0" y="0" width="900" height="400" fill="#ffffff"/>
+<text x="450" y="30" class="t" text-anchor="middle">范式转移的约束轨迹</text>
+<line x1="80" y1="170" x2="820" y2="170" stroke="#cccccc" stroke-width="1.4"/>
+<circle cx="120" cy="170" r="12" fill="#3a6ea5"/>
+<text x="120" y="140" class="b" fill="#3a6ea5" text-anchor="middle">高 C</text>
+<text x="120" y="210" class="b" text-anchor="middle">宏大叙事</text>
+<text x="120" y="232" class="s" text-anchor="middle">资料稀缺</text>
+<circle cx="340" cy="170" r="12" fill="#009E73"/>
+<text x="340" y="140" class="b" fill="#009E73" text-anchor="middle">高 A</text>
+<text x="340" y="210" class="b" text-anchor="middle">社会史</text>
+<text x="340" y="232" class="s" text-anchor="middle">资料增加</text>
+<line x1="120" y1="170" x2="340" y2="170" stroke="#666666" stroke-width="1.4" stroke-dasharray="5,4"/>
+<circle cx="560" cy="170" r="12" fill="#b8862f"/>
+<text x="560" y="140" class="b" fill="#b8862f" text-anchor="middle">高 T</text>
+<text x="560" y="210" class="b" text-anchor="middle">微观史</text>
+<text x="560" y="232" class="s" text-anchor="middle">数据过载</text>
+<line x1="340" y1="170" x2="560" y2="170" stroke="#666666" stroke-width="1.4" stroke-dasharray="5,4"/>
+<circle cx="760" cy="170" r="12" fill="#c94f4f"/>
+<text x="760" y="140" class="b" fill="#c94f4f" text-anchor="middle">A+T</text>
+<text x="760" y="210" class="b" text-anchor="middle">全球史/新物质</text>
+<text x="760" y="232" class="s" text-anchor="middle">过载+跨学科</text>
+<line x1="560" y1="170" x2="760" y2="170" stroke="#666666" stroke-width="1.4" stroke-dasharray="5,4"/>
+<text x="450" y="286" class="s" text-anchor="middle">资料状态改变 → 划算的位置改变 → 主流范式迁移</text>
+<text x="450" y="316" class="cap" text-anchor="middle">不是“越来越接近真理”，而是在三角上重新选择</text>
+</svg>

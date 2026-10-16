@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340">
+<style>text{font-family:"Microsoft YaHei","SimHei",Arial,sans-serif;}.t{font-size:18px;fill:#222222;}.s{font-size:14px;fill:#555555;}.b{font-size:15px;font-weight:700;}.cap{font-size:16px;fill:#555555;}</style>
+<rect x="0" y="0" width="900" height="340" fill="#ffffff"/>
+<rect x="40" y="60" width="170" height="80" rx="8" fill="#3a6ea5" fill-opacity="0.12" stroke="#3a6ea5" stroke-width="1.6"/>
+<text x="125" y="94" class="b" fill="#3a6ea5" text-anchor="middle">容量级联</text>
+<text x="125" y="120" class="s" text-anchor="middle">诠释者先压缩</text>
+<line x1="125" y1="140" x2="125" y2="190" stroke="#3a6ea5" stroke-width="1.4"/>
+<rect x="240" y="60" width="170" height="80" rx="8" fill="#009E73" fill-opacity="0.12" stroke="#009E73" stroke-width="1.6"/>
+<text x="325" y="94" class="b" fill="#009E73" text-anchor="middle">C-A-T 三角</text>
+<text x="325" y="120" class="s" text-anchor="middle">三选二的价目表</text>
+<line x1="325" y1="140" x2="325" y2="190" stroke="#009E73" stroke-width="1.4"/>
+<rect x="440" y="60" width="170" height="80" rx="8" fill="#b8862f" fill-opacity="0.12" stroke="#b8862f" stroke-width="1.6"/>
+<text x="525" y="94" class="b" fill="#b8862f" text-anchor="middle">时间错配</text>
+<text x="525" y="120" class="s" text-anchor="middle">尺度决定分辨率</text>
+<line x1="525" y1="140" x2="525" y2="190" stroke="#b8862f" stroke-width="1.4"/>
+<rect x="640" y="60" width="170" height="80" rx="8" fill="#c94f4f" fill-opacity="0.12" stroke="#c94f4f" stroke-width="1.6"/>
+<text x="725" y="94" class="b" fill="#c94f4f" text-anchor="middle">区分与边界</text>
+<text x="725" y="120" class="s" text-anchor="middle">划界与失效标记</text>
+<line x1="725" y1="140" x2="725" y2="190" stroke="#c94f4f" stroke-width="1.4"/>
+<rect x="200" y="190" width="500" height="56" rx="8" fill="#666666" fill-opacity="0.10" stroke="#666666" stroke-width="1.4"/>
+<text x="450" y="214" class="b" text-anchor="middle">诠释诊断五步</text>
+<text x="450" y="236" class="s" text-anchor="middle">容量 → 权衡 → 时间 → 区分 → 复核</text>
+<line x1="450" y1="246" x2="450" y2="280" stroke="#666666" stroke-width="1.4"/>
+<text x="450" y="302" class="cap" text-anchor="middle">输出：一场争论的坐标，而非胜负</text>
+<text x="450" y="34" class="t" text-anchor="middle">四把工具，一条链</text>
+</svg>

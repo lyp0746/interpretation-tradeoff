@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" width="760" height="470">
+<style>text{font-family:"Microsoft YaHei","SimHei",Arial,sans-serif;}.t{font-size:18px;fill:#222222;}.s{font-size:14px;fill:#555555;}.b{font-size:15px;font-weight:700;}.cap{font-size:16px;fill:#555555;}</style>
+<rect x="0" y="0" width="760" height="470" fill="#ffffff"/>
+<polygon points="380.0,80.0 232.8,335.0 527.2,335.0" fill="none" stroke="#666666" stroke-width="1.6"/>
+<circle cx="380.0" cy="80.0" r="9" fill="#3a6ea5"/>
+<text x="380" y="40" class="b" fill="#3a6ea5" text-anchor="middle">C 完备</text>
+<text x="380" y="60" class="s" text-anchor="middle">清晰论</text>
+<text x="380" y="78" class="s" fill="#3a6ea5" text-anchor="middle">让出 A</text>
+<circle cx="232.8" cy="335.0" r="9" fill="#009E73"/>
+<text x="143" y="369" class="b" fill="#009E73" text-anchor="middle">A 可组合</text>
+<text x="143" y="389" class="s" text-anchor="middle">平衡论</text>
+<text x="143" y="407" class="s" fill="#009E73" text-anchor="middle">让出 C</text>
+<circle cx="527.2" cy="335.0" r="9" fill="#b8862f"/>
+<text x="617" y="369" class="b" fill="#b8862f" text-anchor="middle">T 传递</text>
+<text x="617" y="389" class="s" text-anchor="middle">细节论</text>
+<text x="617" y="407" class="s" fill="#b8862f" text-anchor="middle">让出 C</text>
+<text x="380" y="256" class="s" text-anchor="middle">至多同时满格两个</text>
+<text x="380" y="34" class="t" text-anchor="middle">C-A-T 三角的史学版本</text>
+<text x="380" y="452" class="cap" text-anchor="middle">三方不是在争谁对，而是在争用哪把尺子</text>
+</svg>

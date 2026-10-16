@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 360" width="880" height="360">
+<style>text{font-family:"Microsoft YaHei","SimHei",Arial,sans-serif;}.t{font-size:18px;fill:#222222;}.s{font-size:14px;fill:#555555;}.b{font-size:15px;font-weight:700;}.cap{font-size:16px;fill:#555555;}</style>
+<rect x="0" y="0" width="880" height="360" fill="#ffffff"/>
+<text x="440" y="30" class="t" text-anchor="middle">四个帝国的“衰落期”长度（对数刻度，示意）</text>
+<line x1="150" y1="64" x2="150" y2="286" stroke="#cccccc" stroke-width="1"/>
+<text x="150" y="308" class="s" text-anchor="middle">10 年</text>
+<line x1="475" y1="64" x2="475" y2="286" stroke="#cccccc" stroke-width="1"/>
+<text x="475" y="308" class="s" text-anchor="middle">100 年</text>
+<line x1="800" y1="64" x2="800" y2="286" stroke="#cccccc" stroke-width="1"/>
+<text x="800" y="308" class="s" text-anchor="middle">1000 年</text>
+<text x="140" y="92" class="b" text-anchor="end">东罗马</text>
+<rect x="150" y="74" width="521" height="26" rx="4" fill="#3a6ea5" fill-opacity="0.6"/>
+<text x="679" y="93" class="s">约 400 年</text>
+<text x="140" y="146" class="b" text-anchor="end">奥斯曼</text>
+<rect x="150" y="128" width="449" height="26" rx="4" fill="#009E73" fill-opacity="0.6"/>
+<text x="607" y="147" class="s">约 240 年</text>
+<text x="140" y="200" class="b" text-anchor="end">清</text>
+<rect x="150" y="182" width="275" height="26" rx="4" fill="#b8862f" fill-opacity="0.6"/>
+<text x="433" y="201" class="s">约 70 年</text>
+<text x="140" y="254" class="b" text-anchor="end">苏联</text>
+<rect x="150" y="236" width="26" height="26" rx="4" fill="#c94f4f" fill-opacity="0.6"/>
+<text x="184" y="255" class="s">约 12 年</text>
+<text x="440" y="338" class="cap" text-anchor="middle">跨度两个数量级——说明“衰落”定义本身决定了长度</text>
+</svg>
