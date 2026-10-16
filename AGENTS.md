@@ -1,0 +1,71 @@
+# AGENTS.md — 本仓库工作约定与工具链（记忆）
+
+> pi 会把本文件作为目录级上下文/记忆自动加载。改动后新会话生效。
+
+## 工具链（本机实测，2026-10）
+
+- **Git**：`D:\Git\cmd\git.exe`（不在 WSL 的 PATH 里，请用绝对路径 `/mnt/d/Git/cmd/git.exe`）
+  - remote：`https://github.com/lyp0746/interpretation-tradeoff.git`，默认分支 `main`
+  - 凭据已缓存，可直接 `push`；脚本里加 `GIT_TERMINAL_PROMPT=0` 防卡住
+- **Python（构建/分析）**：`/mnt/d/0_Code/Iris Series/.venv/Scripts/python.exe`
+  - 已装：numpy scipy pandas matplotlib bs4 lxml pypdf requests
+  - `.env.build` 的 `PYTHON` 已指向该解释器；路径含空格，务必加引号
+- **PDF 生成**：`build_book.py --pdf` 调无头 Chrome（`C:\Program Files\Google\Chrome\Application\chrome.exe`）
+
+## 常用命令
+
+```bash
+PY="/mnt/d/0_Code/Iris Series/.venv/Scripts/python.exe"
+GIT="/mnt/d/Git/cmd/git.exe"
+
+"$PY" analysis/make_cover.py                  # 生成 assets/svg/cover.svg
+"$PY" analysis/audit.py                        # 校对 → 刷新 校对清单.md
+"$PY" analysis/preregistration_checkup.py      # 校验 append-only 登记账本
+bash scripts/build.sh                          # 校对→印刷PDF→电子阅读PDF→EPUB→Markdown
+bash scripts/validate.sh                       # 校对 + EPUB 结构校验
+bash scripts/release.sh                        # 组装 release/
+```
+
+## 仓库约定
+
+- **`source/*.html` 是唯一权威正文来源**；`output/`、`release/` 是派生产物（见 `.gitignore`）。
+- 改正文后顺序：`analysis/audit.py` → `bash scripts/build.sh`。
+- 结论标注：证据等级 **A/B/C** 与概念等级 **甲/乙/丙** 双重标注；C 级仅作方向判断。
+- **可证伪登记簿**（附录 E 与 `docs/preregistration/`）为 **append-only**：只追加，绝不改写旧行。
+- **正文与元数据不含版本号**；日期使用真实完成日期（`source/book.json` 单一来源）。
+- 发布包只放读者面文件；不得含 xlsx/csv/json/py（`release.sh` 有守门检查）。
+- 一个 release 对应一个 tag（可选 Model B：一个产物一个 tag）。
+
+## 写作风格（重要）
+
+见 skill `academic-book-pipeline` 的 `references/voice.md`。要点：
+
+- **张力，不宿命**：约束是交易的条件，不是判决。禁止把“必然／不可避免／注定／死路”当作结论；
+  但“给定某个选择，这笔账必然到来”属于交易句，可用。
+- **分级在装置，不在每句**：证据/概念等级放表格与附录；正文一句一个精确限定即可。
+- **反例进正文**；**地图只定性**；**负面结果**照实写出。
+- 每个硬约束章必须带反向力量：这条限制**使什么成为可能**。
+- 结构由论证决定：本书为 工具 → 深度诊断 → 快速诊断 → 元反思 → 边界。
+
+## 本书特有
+
+- **诠释诊断**（定义 1.1）：只问“诠释做了什么选择”，不问“是否正确”。
+- **四把工具**：容量级联（《遗忘的边界》）、C-A-T 三角（《选择的代价》）、
+  时间错配 τ（《错位的时间》）、区分与边界（《区分的语法》）。
+- **容量四层**：L1 观察 / L2 推理 / L3 诠释 / L4 因果（定义 2.1）。
+- **三角的史学翻译**：C＝因果清晰度，A＝维度丰富度，T＝细节传递度（表 2.2；合法性见附录 A.3，O4）。
+- **被让出的顶点**：取三档中最低者（规则 A.1）。
+- **三种风格**：清晰论（高 C 让 T）、平衡论（高 A 让 C）、细节论（高 T 让 C）。
+- **地板/天花板/阁楼**（定义 16.1）：地板主张不依赖经验结论，是全书最硬的部分。
+- **失败记录**（`source/appendix_j_failed.html`）：撤回“坐标可形式化”的强主张，正式内容不得删除；登记为 refuted。
+- **开放问题**：O1—O22（第 16.4 节、附录 L）；**可检验预测** F1—F5（第 16.3 节、附录 E）。
+- **生死线**：O1（四层衰减）、O2（三选二反例）、O3（时间主张）、O4（翻译合法性）、O5（评分稳健）。
+- **数据不对称**（第 11.5 节）：气候数据比社会数据更易得，会系统性影响哪派占上风。
+- **跨文明警戒线**（警告 5.1）：对象无“因果清晰度”概念、诠释不以文本存在、不区分事实与意义时，框架可能失效。
+- **六场深度诊断**：第 6—11 章，每章末给出示意性坐标表（B／乙）。
+- **三十场快速诊断**：第 12 章 + 附录 B；自我检验见 12.5（O2、O5、O17）。
+- **自评位置**（第 5.4 节）：本书选 C+A、让出 T；可由 O8 自指一致性检查推翻。
+
+## 版本脉络
+
+见 `versions/CHANGELOG.md`（首版）。

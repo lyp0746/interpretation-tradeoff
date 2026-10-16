@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1414" width="1000" height="1414">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#0e1117"/><stop offset="0.55" stop-color="#151a23"/>
+<stop offset="1" stop-color="#0b0e14"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="1000" height="1414" fill="url(#bg)"/>
+<rect x="0" y="0" width="1000" height="8" fill="#b8862f" opacity="0.85"/>
+<polygon points="500.0,400.0 292.2,760.0 707.8,760.0" fill="none" stroke="#8fa0b5" stroke-width="1.6" opacity="0.75"/>
+<line x1="428.0" y1="532.0" x2="572.0" y2="532.0" stroke="#c9cfd8" stroke-width="1.2" opacity="0.20"/>
+<line x1="389.6" y1="604.0" x2="610.4" y2="604.0" stroke="#c9cfd8" stroke-width="1.2" opacity="0.28"/>
+<line x1="351.2" y1="676.0" x2="648.8" y2="676.0" stroke="#c9cfd8" stroke-width="1.2" opacity="0.36"/>
+<line x1="312.8" y1="733.6" x2="687.2" y2="733.6" stroke="#c9cfd8" stroke-width="1.2" opacity="0.44"/>
+<path d="M 200 820 Q 500 480 800 520" fill="none" stroke="#3a6ea5" stroke-width="2.2" opacity="0.65"/>
+<path d="M 200 865 Q 500 525 800 565" fill="none" stroke="#b8862f" stroke-width="2.2" opacity="0.65"/>
+<line x1="500.0" y1="400.0" x2="292.2" y2="760.0" stroke="#c9c9c9" stroke-width="1.4" opacity="0.45" stroke-dasharray="7,6"/>
+<line x1="292.2" y1="760.0" x2="707.8" y2="760.0" stroke="#c9c9c9" stroke-width="1.4" opacity="0.45" stroke-dasharray="7,6"/>
+<line x1="707.8" y1="760.0" x2="500.0" y2="400.0" stroke="#c9c9c9" stroke-width="1.4" opacity="0.45" stroke-dasharray="7,6"/>
+<circle cx="500.0" cy="400.0" r="7" fill="#3a6ea5" opacity="0.9"/>
+<circle cx="292.2" cy="760.0" r="7" fill="#009E73" opacity="0.9"/>
+<circle cx="707.8" cy="760.0" r="7" fill="#b8862f" opacity="0.9"/>
+<style>
+text{font-family:'Microsoft YaHei','SimHei',Arial,sans-serif;}
+.ttl{font-size:108px;font-weight:700;letter-spacing:12px;fill:#e8e6df;}
+.sub{font-size:27px;fill:#9aa0a6;letter-spacing:2px;}
+.eng{font-size:21px;fill:#9aa0a6;letter-spacing:1px;}
+.au{font-size:30px;fill:#e8e6df;letter-spacing:2px;}
+.rule{stroke:#9aa0a6;stroke-width:1;opacity:0.6;}
+.lab{font-size:24px;font-weight:700;}
+</style>
+<text x="80" y="176" class="eng">THE INTERPRETATION TRADEOFF</text>
+<text x="80" y="300" class="ttl">诠释的权衡</text>
+<line x1="84" y1="344" x2="700" y2="344" class="rule"/>
+<text x="84" y="396" class="sub">为什么历史学永远有争论</text>
+<text x="84" y="440" class="sub">——诠释的容量、权衡、时间与边界</text>
+<text x="486" y="378" class="lab" fill="#3a6ea5" text-anchor="middle">C</text>
+<text x="268" y="794" class="lab" fill="#009E73" text-anchor="middle">A</text>
+<text x="732" y="794" class="lab" fill="#b8862f" text-anchor="middle">T</text>
+<text x="80" y="1180" class="au">李毅芃　著</text>
+<text x="80" y="1232" class="eng">Diagnosing Interpretation: Capacity, Tradeoff, Time, Boundary</text>
+<text x="80" y="1274" class="eng">史学理论专著 · 2026</text>
+</svg>

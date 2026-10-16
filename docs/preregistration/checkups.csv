@@ -1,0 +1,4 @@
+test_id,check_date,checker,status,indicator,value,unit,source,vintage,triggered,note
+P2,2026-10-16,author,baseline,三十场争论中同时满格 C 与 T 的立场数,0,count,source/appendix_b_coords.html,2026,no,未找到反例（非证明）
+P4,2026-10-16,author,baseline,C 与 T 评分的目测相关性,unknown,qualitative,analysis/results/audit.json,2026,no,尚未做独立评分
+P5,2026-10-16,author,baseline,独立评分者一致性,unknown,statistic,待组织双盲评分,2026,no,未检验

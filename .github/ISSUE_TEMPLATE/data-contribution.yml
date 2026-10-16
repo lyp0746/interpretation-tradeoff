@@ -1,0 +1,29 @@
+name: 贡献数据 / 复现结果
+description: 完成一次独立评分、反例搜索或分层证据密度测量
+title: "[贡献] "
+labels: ["data"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 类型
+      options:
+        - 独立评分（O5）
+        - 反例搜索（O2）
+        - 分层证据密度（O1）
+        - 定义对齐（O11）
+        - 其他开放问题
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: 结果
+      description: 请给出可核对的坐标表/反例/测量表。
+    validations:
+      required: true
+  - type: textarea
+    id: registry
+    attributes:
+      label: 登记
+      description: 是否已在 docs/preregistration/checkups.csv 追加一行？

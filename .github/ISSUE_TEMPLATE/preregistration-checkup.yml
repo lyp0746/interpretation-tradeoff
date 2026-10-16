@@ -1,0 +1,91 @@
+name: 核销登记（P1—P5 / F1—F5）
+description: 对事前登记的可证伪主张做一次可追溯的核销
+title: "[核销] P? — <指标> — <YYYY-MM-DD>"
+labels: ["preregistration", "checkup"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        核销时**四项分开**：(i) 原始预测；(ii) 观测结果；(iii) 是否达标；(iv) 差异原因。
+        观测后不得修改已登记行，只能追加。
+  - type: dropdown
+    id: test
+    attributes:
+      label: 主张编号
+      options:
+        - P1 四层证据强度逐层衰减
+        - P2 至多满格两个顶点
+        - P3 古代史确定性虚高来自压缩
+        - P4 C/A/T 史学翻译保真
+        - P5 坐标评分稳健
+        - F1 主流从高 T 向高 C 迁移
+        - F2 让出顶点判断一致性高于档位判断
+        - F3 高 C 立场方向预测优于时点预测
+        - F4 同时满格 C 与 T 不超过 10%
+        - F5 显式声明顶点降低跨学科冲突
+    validations:
+      required: true
+  - type: input
+    id: check_date
+    attributes:
+      label: 核对日期
+      placeholder: "2027-01-15"
+    validations:
+      required: true
+  - type: input
+    id: indicator
+    attributes:
+      label: 指标（与 registry.json 一致）
+    validations:
+      required: true
+  - type: input
+    id: value
+    attributes:
+      label: 观测值 + 单位
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 数据来源与 vintage
+    validations:
+      required: true
+  - type: dropdown
+    id: triggered
+    attributes:
+      label: 是否触发
+      options: ["no", "partial", "yes"]
+    validations:
+      required: true
+  - type: textarea
+    id: prediction
+    attributes:
+      label: (i) 原始预测（照抄 registry.json，不得改写）
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: (ii) 观测结果
+    validations:
+      required: true
+  - type: dropdown
+    id: met
+    attributes:
+      label: (iii) 是否满足成功标准
+      options: ["命中", "落空", "部分", "尚不可判定"]
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: (iv) 差异的可能原因
+  - type: checkboxes
+    id: commit
+    attributes:
+      label: 承诺
+      options:
+        - label: 我没有修改已登记的预测或旧账本行
+          required: true
+        - label: 我会把本 issue 的结果追加进 docs/preregistration/checkups.csv
+          required: true

@@ -1,0 +1,90 @@
+{
+  "project": "诠释的权衡：为什么历史学永远有争论",
+  "registered_at": "2026-10-16",
+  "migration": {
+    "status": "本账本为 append-only；登记条目只追加，旧行永不修改。",
+    "machine_baseline": "docs/preregistration/checkups.csv"
+  },
+  "tests": [
+    {
+      "id": "P1",
+      "title": "容量主张：诠释四层（观察/推理/诠释/因果）的证据强度逐层衰减",
+      "observation_due": "待多层证据密度测量",
+      "indicators": [
+        {"name": "同一史料集在不同研究中的各层证据密度", "source": "公开史学文献抽样"}
+      ]
+    },
+    {
+      "id": "P2",
+      "title": "权衡主张：在有限描述中至多满格 C、A、T 中两个顶点",
+      "observation_due": "开放（生死线）",
+      "indicators": [
+        {"name": "同时满格 C 与 T 的主流立场数量", "source": "坐标表扩展至 100 场争论 + 独立评分"}
+      ]
+    },
+    {
+      "id": "P3",
+      "title": "时间主张：古代史结论的“确定性虚高”主要来自压缩而非史料质量",
+      "observation_due": "待分离实验",
+      "indicators": [
+        {"name": "方法可比的新旧题目上的结论确定性差异", "source": "跨时代史学样本"}
+      ]
+    },
+    {
+      "id": "P4",
+      "title": "翻译合法性：C/A/T 在史学语境中大致独立",
+      "observation_due": "待相关性测量",
+      "indicators": [
+        {"name": "三个顶点评分两两相关矩阵", "source": "坐标表 + 独立评分"}
+      ]
+    },
+    {
+      "id": "P5",
+      "title": "坐标稳健性：独立评分者对档位/让出顶点的判断一致性较高",
+      "observation_due": "待双盲评分",
+      "indicators": [
+        {"name": "Fleiss kappa / 一致率", "source": "10 名研究者双盲评分"}
+      ]
+    },
+    {
+      "id": "F1",
+      "title": "文本整合成本下降后，史学主流从高 T 向高 C 迁移",
+      "observation_due": "5—10 年",
+      "indicators": [
+        {"name": "顶级史学期刊中“综合/因果”类论文占比", "source": "文献计量（待检索）"}
+      ]
+    },
+    {
+      "id": "F2",
+      "title": "“让出顶点”判断的一致性高于坐标档位判断",
+      "observation_due": "1—2 年",
+      "indicators": [
+        {"name": "两类判断的一致率之差", "source": "双盲评分"}
+      ]
+    },
+    {
+      "id": "F3",
+      "title": "高 C 立场对“方向”的预测优于对“时点”的预测",
+      "observation_due": "2—3 年",
+      "indicators": [
+        {"name": "方向正确率 vs 时点正确率", "source": "20 个有明确时点的案例"}
+      ]
+    },
+    {
+      "id": "F4",
+      "title": "“同时满格 C 与 T”的立场不超过样本 10%",
+      "observation_due": "2—4 年",
+      "indicators": [
+        {"name": "高 C 且高 T 的立场占比", "source": "100 场争论坐标表"}
+      ]
+    },
+    {
+      "id": "F5",
+      "title": "显式声明顶点的跨学科团队冲突更少",
+      "observation_due": "1—3 年",
+      "indicators": [
+        {"name": "冲突频率与双方接受度", "source": "对照/准实验"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env.build
+.env.*
+output/*.html
+output/*.pdf
+output/*.epub
+output/markdown/
+/release/
+.tmp/
+.DS_Store
+Thumbs.db
