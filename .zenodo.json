@@ -1,69 +1,113 @@
 {
-  "title": "诠释的权衡：历史研究中的置信度、权衡与理论流变——从人物还原到范式转移的五个应用",
-  "description": "本书把历史诠释读成“给一组竞争命题分配置信度”，并把这个内核按“由深而广”的顺序用于五个领域：应用一，用贝叶斯与置信度还原历史人物与事件；应用二，用数据分析做可复核的跨文明制度对比；应用三，用分析还原论诊断既有的历史研究争论（含七场深度诊断、并报告框架在放大时丢掉时间维度）；应用四，用综合分析定位（而非合并）现有历史理论；应用五，用范式转移解释历史研究理论的流变。全书以 A/B/C 证据等级与可证伪登记簿组织，并用同一套标准给本书自己打分。<p><b>系列。</b>本系列的通俗读本《只能选两样》与外部登记库（跨域盲测登记、最小可验证单元、合并术语表）见 <a href=\"https://github.com/lyp0746/knowledge-tradeoffs\">github.com/lyp0746/knowledge-tradeoffs</a>。</p>",
+  "title": "诠释的权衡：历史研究中的置信度、权衡与理论流变——从人物还原到范式转移的五个应用 / The Tradeoffs of Interpretation: Confidence, Trade-offs, and Theoretical Change in Historical Research — Five Applications from Restoring Persons to Paradigm Shifts",
+  "description": "<p><b>中文.</b> 本著作提出“诠释即置信度分配”的诊断框架，用以解释历史学为什么在材料增加时仍然争吵不休。</p><p>核心主张：诠释就是给一组互相竞争的命题分配置信度；“他确实说过”置信度高，“他因此被排挤”置信度中，“这标志时代转向”置信度低。一个诠释的形状，由这组分布决定。</p><p>结构与证据：25 章、附录 A—AC、19 幅图；四层置信度（观察、推理、诠释、因果）配可反驳条件；以贝叶斯更新示范先验敏感性，以编码敏感性模拟说明“合理编码也能翻掉弱结论”。</p><p>诚实的纪律：每条判断标层级与强度；把一次失败（C-A-T 在史学中的形式化尝试被撤回）写进正文而非只放附录；开放问题、可证伪登记簿与自诊工作表随书公开。</p><p>边界：在历史这类对象上，诊断只能到隐喻一级；置信度分配可操作，三角位置尚不可独立测量。</p><p>版本：2026-10-18，201 页，25 章，19 图，附录 A—AC；含工作手册与复算脚本，内容 CC BY 4.0，代码 MIT。</p><p><b>系列 / Series.</b> 同一作者的独立研究系列：六本学术专著 + 两本通俗读本。入口与外部登记库：<a href=\"https://github.com/lyp0746/knowledge-tradeoffs\">https://github.com/lyp0746/knowledge-tradeoffs</a>；源码与可复算脚本：<a href=\"https://github.com/lyp0746/interpretation-tradeoff\">https://github.com/lyp0746/interpretation-tradeoff</a>。首选预览文件：<code>interpretation-tradeoff-print.pdf</code>（印刷版）。</p><p><b>English.</b> Abstract (English). This work presents a diagnostic framework: interpretation is the allocation of confidence to competing propositions. Core thesis: “he did say it” carries high confidence, “he was therefore marginalised” medium, “this marks a turning point of an age” low; the shape of an interpretation is the distribution of those confidences. Structure and evidence: 25 chapters, appendices A–AC, 19 figures; four confidence layers (observation, inference, interpretation, causation), each with refutation conditions; a Bayesian demonstration of prior sensitivity and a coding-sensitivity simulation showing that reasonable coding can invert weak conclusions. Discipline: every judgement carries its layer and strength; one failure — the attempt to formalise C-A-T positions in historiography — is reported in the main text, not buried in an appendix; worksheets and a falsifiability register are included. Boundaries: for objects like history, diagnosis reaches only the level of metaphor; confidence allocation is operational, while triangle positions are not yet independently measurable. Edition: 2026-10-18, 201 pages, 25 chapters, 19 figures, appendices A–AC.</p>",
   "creators": [
     {
       "name": "李毅芃",
-      "affiliation": "独立研究者 / Independent Researcher",
-      "email": "1610369302@qq.com"
+      "affiliation": "独立研究者 / Independent Researcher"
     }
   ],
   "keywords": [
     "诠释的权衡",
-    "置信度",
-    "贝叶斯",
+    "tradeoffs of interpretation",
+    "置信度分配",
+    "confidence allocation",
+    "贝叶斯更新",
+    "Bayesian updating",
     "史学理论",
+    "historiography",
     "跨文明比较",
-    "分析还原论",
-    "综合分析",
+    "cross-civilizational comparison",
     "范式转移",
-    "C-A-T 三角",
-    "容量",
-    "时间错配",
-    "区分",
-    "可证伪性"
+    "paradigm shift",
+    "证据等级",
+    "evidence grading",
+    "可证伪性",
+    "falsifiability"
   ],
-  "notes": "Zenodo DOI: 10.5281/zenodo.23416220。与作者此前四本书构成同一研究系列；本书有自己独立的核心（诠释即置信度的分配），四个概念（容量、权衡、时间、区分）只与四本书相连、建立联系，不依赖其结论。",
+  "subjects": [
+    {
+      "term": "Historiography",
+      "scheme": "custom"
+    },
+    {
+      "term": "Philosophy of History",
+      "scheme": "custom"
+    },
+    {
+      "term": "Hermeneutics",
+      "scheme": "custom"
+    },
+    {
+      "term": "Philosophy of Science",
+      "scheme": "custom"
+    },
+    {
+      "term": "Epistemology",
+      "scheme": "custom"
+    },
+    {
+      "term": "Complex Systems",
+      "scheme": "custom"
+    }
+  ],
+  "notes": "科目（中文）：史学理论 Historiography、历史哲学 Philosophy of History、诠释学 Hermeneutics、科学哲学 Philosophy of Science、知识论 Epistemology、复杂系统 Complex Systems。语言：中文（含英文摘要）。结构：25 章，约 201 页。首选预览文件：interpretation-tradeoff-print.pdf（印刷版）。引用格式见 CITATION.cff。",
   "license": "CC-BY-4.0",
   "upload_type": "publication",
   "publication_type": "book",
   "language": "zho",
   "access_right": "open",
-  "publication_date": "2026-10-16",
+  "publication_date": "2026-10-18",
   "related_identifiers": [
     {
       "identifier": "https://github.com/lyp0746/interpretation-tradeoff",
-      "relation": "isSupplementTo",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/lyp0746/knowledge-tradeoffs",
+      "relation": "isPartOf",
       "scheme": "url"
     },
     {
       "identifier": "https://doi.org/10.5281/zenodo.23286403",
       "relation": "references",
-      "scheme": "doi",
-      "resource_type": "publication-book"
+      "scheme": "doi"
     },
     {
       "identifier": "https://doi.org/10.5281/zenodo.23323277",
       "relation": "references",
-      "scheme": "doi",
-      "resource_type": "publication-book"
+      "scheme": "doi"
     },
     {
-      "identifier": "https://doi.org/10.5281/zenodo.23345013",
+      "identifier": "https://doi.org/10.5281/zenodo.23412033",
       "relation": "references",
-      "scheme": "doi",
-      "resource_type": "publication-book"
+      "scheme": "doi"
     },
     {
       "identifier": "https://doi.org/10.5281/zenodo.23388629",
       "relation": "references",
-      "scheme": "doi",
-      "resource_type": "publication-book"
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/lyp0746/emergence-critical",
+      "relation": "references",
+      "scheme": "url"
     },
     {
       "identifier": "https://github.com/lyp0746/knowledge-tradeoffs",
-      "relation": "isSupplementedBy",
+      "relation": "isDocumentedBy",
       "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/lyp0746/hotspot-bills",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.23416219",
+      "relation": "isVersionOf",
+      "scheme": "doi"
     }
   ]
 }

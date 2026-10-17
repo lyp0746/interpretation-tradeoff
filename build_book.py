@@ -37,8 +37,9 @@ FRONT = [("先读这一页　三条可检验的诊断", "front_hardcore.html", "
          ("阅读合约　本书向你承诺什么，又不承诺什么", "front_theorymap.html", "contract"),
          ("读者指南　按角色选择阅读路径", "front_roadmap.html", "roadmap"),
          ("术语、记号与断言分级速查", "front_terms.html", "terms")]
-BACK = [("结语　把价目表带到你的书桌上", "back_epilogue.html", "epilogue"),
-        ("附　通俗读本《只能选两样》导引", "back_popular_guide.html", "popguide"),
+BACK = [
+        ("结语　把价目表带到你的书桌上", "back_epilogue.html", "epilogue"),
+        ("本系列（六本专著 + 两本通俗读本）", "back_popular_guide.html", "popguide"),
         ("附录 A　诊断评分规则与 C-A-T 判定标准", "appendix_a_rubric.html", "apxA"),
         ("附录 B　三十场争论的完整坐标表", "appendix_b_coords.html", "apxB"),
         ("附录 C　参考文献", "appendix_c_references.html", "apxC"),
@@ -46,12 +47,27 @@ BACK = [("结语　把价目表带到你的书桌上", "back_epilogue.html", "ep
         ("附录 E　可证伪登记簿", "appendix_e_preregistration.html", "apxE"),
         ("附录 F　证据与数据缺口清单", "appendix_f_datagaps.html", "apxF"),
         ("附录 G　诠释自诊工作表", "appendix_g_worksheet.html", "apxG"),
-        ("附录 H　与四本书的对应", "appendix_h_series.html", "apxH"),
+        ("附录 H　与四本书的对应：借用，而非依赖", "appendix_h_series.html", "apxH"),
         ("附录 I　与已有史学理论的对话", "appendix_i_dialogue.html", "apxI"),
         ("附录 J　失败记录：框架自身的一次失效", "appendix_j_failed.html", "apxJ"),
         ("附录 K　诠释的时间尺度表", "appendix_k_timescales.html", "apxK"),
-        ("附录 L　研究议题库：可接手的开放问题", "appendix_l_agenda.html", "apxL")]
-
+        ("附录 L　研究议题库：可接手的开放问题", "appendix_l_agenda.html", "apxL"),
+        ("附录 M　十个历史争论的置信度分配", "appendix_m_cases.html", "apxM"),
+        ("附录 N　诠释的十种误用", "appendix_n_misuse.html", "apxN"),
+        ("附录 O　史学理论的五次对话", "appendix_o_theories.html", "apxO"),
+        ("附录 P　跨文明比较的方法", "appendix_p_compare.html", "apxP"),
+        ("附录 R　诠释工作手册：四张可以直接填的表", "appendix_r_worksheet.html", "apxR"),
+        ("附录 S　十个争论的分歧层对照", "appendix_s_coords.html", "apxS"),
+        ("附录 T　置信度校准练习：二十句话", "appendix_t_drill.html", "apxT"),
+        ("附录 U　术语对照：史学、社会科学与统计学", "appendix_u_terms.html", "apxU"),
+        ("附录 V　借用的四个概念：来源与边界", "appendix_v_borrow.html", "apxV"),
+        ("附录 W　一次完整的诠释诊断：七步示范", "appendix_w_walkthrough.html", "apxW"),
+        ("附录 X　二十个常见提问", "appendix_x_faq.html", "apxX"),
+        ("附录 Y　结语之后的六个练习", "appendix_y_exercises.html", "apxY"),
+        ("附录 Z　十个概念的一句话定义", "appendix_z_glossary.html", "apxZ"),
+        ("附录 AA　本书的十条纪律", "appendix_aa_rules.html", "apxAA"),
+        ("附录 AB　本书全部数字的来源", "appendix_ab_numbers.html", "apxAB"),
+        ("附录 AC　五问清单：三十秒判断一个说法", "appendix_ac_five.html", "apxAC")]
 
 def load_json(p, default=None):
     if not os.path.exists(p):

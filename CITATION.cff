@@ -1,32 +1,50 @@
 cff-version: 1.2.0
-message: "若您使用或引用本书，请按以下格式引用。"
-title: "诠释的权衡：历史研究中的置信度、权衡与理论流变——从人物还原到范式转移的五个应用"
+message: "If you use this work, please cite it as below. 若使用本作，请按下述格式引用。"
+type: book
+title: "诠释的权衡：历史研究中的置信度、权衡与理论流变——从人物还原到范式转移的五个应用 / The Tradeoffs of Interpretation: Confidence, Trade-offs, and Theoretical Change in Historical Research — Five Applications from Restoring Persons to Paradigm Shifts"
 abstract: >-
-  本书把历史诠释读成“给一组竞争命题分配置信度”，并把这个内核按“由深而广”
-  的顺序用于五个领域：用贝叶斯与置信度还原历史人物与事件；用数据分析做可复核的
-  跨文明制度对比；用分析还原论诊断既有的历史研究争论；用综合分析定位（而非合并）
-  现有历史理论；用范式转移解释历史研究理论的流变。全书以 A/B/C 证据等级与
-  可证伪登记簿组织，明确区分“已证”“框架”“猜想”，并用同一套标准给本书自己打分。
+  本著作提出“诠释即置信度分配”的诊断框架，用以解释历史学为什么在材料增加时仍然争吵不休。 核心主张：诠释就是给一组互相竞争的命题分配置信度；“他确实说过”置信度高，“他因此被排挤”置信度中，“这标志时代转向”置信度低。一个诠释的形状，由这组分布决定。 结构与证据：25 章、附录 A—AC、19 幅图；四层置信度（观察、推理、诠释、因果）配可反驳条件；以贝叶斯更新示范先验敏感性，以编码敏感性模拟说明“合理编码也能翻掉弱结论”。 诚实的纪律：每条判断标层级与强度；把一次失败（C-A-T 在史学中的形式化尝试被撤回）写进正文而非只放附录；开放问题、可证伪登记簿与自诊工作表随书公开。 边界：在历史这类对象上，诊断只能到隐喻一级；置信度分配可操作，三角位置尚不可独立测量。 版本：2026-10-18，201 页，25 章，19 图，附录 A—AC；含工作手册与复算脚本，内容 CC BY 4.0，代码 MIT。
+  Abstract (English). This work presents a diagnostic framework: interpretation is the allocation of confidence to competing propositions. Core thesis: “he did say it” carries high confidence, “he was therefore marginalised” medium, “this marks a turning point of an age” low; the shape of an interpretation is the distribution of those confidences. Structure and evidence: 25 chapters, appendices A–AC, 19 figures; four confidence layers (observation, inference, interpretation, causation), each with refutation conditions; a Bayesian demonstration of prior sensitivity and a coding-sensitivity simulation showing that reasonable coding can invert weak conclusions. Discipline: every judgement carries its layer and strength; one failure — the attempt to formalise C-A-T positions in historiography — is reported in the main text, not buried in an appendix; worksheets and a falsifiability register are included. Boundaries: for objects like history, diagnosis reaches only the level of metaphor; confidence allocation is operational, while triangle positions are not yet independently measurable. Edition: 2026-10-18, 201 pages, 25 chapters, 19 figures, appendices A–AC.
 authors:
   - family-names: "李"
     given-names: "毅芃"
+    alias: "Li Yipeng"
     email: "1610369302@qq.com"
-type: book
+    affiliation: "独立研究者 / Independent Researcher"
+date-released: "2026-10-18"
 license: CC-BY-4.0
-date-released: "2026-10-16"
-doi: "10.5281/zenodo.23416220"
+doi: "10.5281/zenodo.23416219"
 repository-code: "https://github.com/lyp0746/interpretation-tradeoff"
+url: "https://doi.org/10.5281/zenodo.23416219"
 keywords:
-  - 诠释的权衡
-  - 置信度
-  - 贝叶斯
-  - 史学理论
-  - 跨文明比较
-  - 分析还原论
-  - 综合分析
-  - 范式转移
-  - C-A-T 三角
-  - 容量
-  - 时间错配
-  - 区分
-  - 可证伪性
+  - "诠释的权衡"
+  - "置信度分配"
+  - "贝叶斯更新"
+  - "史学理论"
+  - "跨文明比较"
+  - "范式转移"
+  - "证据等级"
+  - "可证伪性"
+  - "语言：中文（含英文摘要）"
+  - "Language: Chinese (with English abstract)"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23416219"
+    description: "Zenodo 归档 DOI（本版）"
+  - type: url
+    value: "https://github.com/lyp0746/interpretation-tradeoff"
+    description: "源码、可复算脚本与构建流程"
+  - type: url
+    value: "https://github.com/lyp0746/knowledge-tradeoffs"
+    description: "系列入口与外部登记库"
+references:
+  - type: book
+    title: "错位的时间：为什么我们总是来不及——社会系统的时间错配与可控性边界 / Desynchronized Time: Why We Are Always Too Late — Temporal Mismatch and the Boundary of Controllability in Social Systems"
+  - type: book
+    title: "遗忘的边界：有限容量下的记忆、智能与自我 / The Boundary of Forgetting: Memory, Intelligence, and the Self under Finite Capacity"
+  - type: book
+    title: "区分的语法：五个领域，同一个二次型 / The Grammar of Distinction: Five Domains, One Quadratic Form"
+  - type: book
+    title: "选择的代价：完备、可组合与可传递的三维权衡——复杂知识系统如何形成、演化与更新 / The Price of Choice: The Impossibility Triangle of Completeness, Composability, and Transfer"
+  - type: book
+    title: "涌现的临界：为什么有些变化回不去——临界、涌现与形式化的边界 / The Criticality of Emergence: Why Some Changes Cannot Be Undone — Criticality, Emergence, and the Limits of Formalization"

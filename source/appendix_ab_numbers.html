@@ -1,0 +1,18 @@
+<h2 class="chapter">附录 AB　本书全部数字的来源</h2>
+<div class="box"><p>一本书如果用了数字，就该能说清每个数字是哪一类：算的、引的，还是示例。这一节把本书的数字全部列出来。</p></div>
+<table class="nat">
+<tr><th class="l">数字</th><th class="l">出处</th><th class="l">类型</th><th class="l">能否复算</th></tr>
+<tr><td class="l">0.678 / 0.254 / 0.068（后验）</td><td class="l">2.6 节</td><td class="l">算出</td><td class="l">能：先验×似然后归一</td></tr>
+<tr><td class="l">0.488 / 0.366 / 0.146（两步更新）</td><td class="l">2.6 节</td><td class="l">算出</td><td class="l">能</td></tr>
+<tr><td class="l">0.683 / 0.244 / 0.073（强先验）</td><td class="l">2.6 节</td><td class="l">算出</td><td class="l">能</td></tr>
+<tr><td class="l">0.340 / 0.412 / 0.248（均匀先验，结论翻转）</td><td class="l">2.6 节</td><td class="l">算出</td><td class="l">能</td></tr>
+<tr><td class="l">0.84 / 0.13 / 0.03 等（人物还原）</td><td class="l">6.7 节</td><td class="l">算出</td><td class="l">能</td></tr>
+<tr><td class="l">8.9%、0.1%（编码翻转比例）</td><td class="l">7.8 节</td><td class="l">模拟</td><td class="l">能：<code>analysis/exp_coding.py</code>，种子 20261016</td></tr>
+<tr><td class="l">约 5%、20%、40%（分层错误率承诺）</td><td class="l">3.7 节</td><td class="l">约定</td><td class="l">不能：它是“承诺”，不是测量</td></tr>
+<tr><td class="l">“高／中／低”三档</td><td class="l">全书</td><td class="l">排序</td><td class="l">不能：序数而非基数</td></tr>
+</table>
+<p><b>三类数字的处理纪律：</b></p>
+<p><b>算出的：</b>给出公式与参数，读者能重算（2.6、6.7 节）。</p>
+<p><b>模拟的：</b>给出脚本、种子与样本量（7.8 节）。</p>
+<p><b>约定的：</b>明确说“这是承诺，不是测量”，并给出对账方式（3.7 节）。</p>
+<p><b>这张表最想说明的一件事：</b>本书没有“二手引用但未核对”的数字。<b>凡是不能复算的，都标成“约定”或“序数”，不冒充测量。</b></p>
