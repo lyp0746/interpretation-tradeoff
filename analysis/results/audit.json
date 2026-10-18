@@ -299,7 +299,7 @@
       "first": null
     },
     "诊断": {
-      "total": 167,
+      "total": 168,
       "by_chapter": [
         [
           "ch01.html",
@@ -320,6 +320,10 @@
         [
           "ch05.html",
           19
+        ],
+        [
+          "ch06.html",
+          1
         ],
         [
           "ch07.html",
