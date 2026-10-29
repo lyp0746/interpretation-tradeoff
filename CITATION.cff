@@ -14,10 +14,10 @@ authors:
 date-released: 2026-10-30
 version: "2026-10-30"
 license: CC-BY-4.0
-doi: 10.5281/zenodo.23447292
+doi: 10.5281/zenodo.23771397
 concept-doi: 10.5281/zenodo.23416219
 repository-code: "https://github.com/lyp0746/interpretation-tradeoff"
-url: "https://doi.org/10.5281/zenodo.23447292"
+url: "https://doi.org/10.5281/zenodo.23771397"
 keywords:
   - "诠释的权衡"
   - "置信度分配"
