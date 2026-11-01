@@ -10,3 +10,5 @@ output/markdown/
 .tmp/
 .DS_Store
 Thumbs.db
+
+*.log
