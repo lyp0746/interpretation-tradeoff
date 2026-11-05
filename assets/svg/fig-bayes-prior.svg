@@ -44,7 +44,7 @@
 <text x="640.0" y="402.0" text-anchor="middle" font-size="11" fill="#666666" font-weight="normal">看到 E₁ 后</text>
 <text x="740.0" y="402.0" text-anchor="middle" font-size="11" fill="#666666" font-weight="normal">再看到 E₂ 后</text>
 <rect x="516" y="291.6" width="14" height="88.4" fill="#2f6db0" opacity="0.85"/>
-<text x="523.0" y="286.6" text-anchor="middle" font-size="9" fill="#2f6db0" font-weight="normal">0.34</text>
+<text x="516.0" y="279.0" text-anchor="middle" font-size="9" fill="#2f6db0" font-weight="normal">0.34</text>
 <rect x="616" y="239.3" width="14" height="140.7" fill="#2f6db0" opacity="0.85"/>
 <text x="623.0" y="234.3" text-anchor="middle" font-size="9" fill="#2f6db0" font-weight="normal">0.54</text>
 <rect x="716" y="291.6" width="14" height="88.4" fill="#2f6db0" opacity="0.85"/>
@@ -56,7 +56,7 @@
 <rect x="732" y="272.9" width="14" height="107.1" fill="#2e7d32" opacity="0.85"/>
 <text x="739.0" y="267.9" text-anchor="middle" font-size="9" fill="#2e7d32" font-weight="normal">0.41</text>
 <rect x="548" y="294.2" width="14" height="85.8" fill="#ef6c00" opacity="0.85"/>
-<text x="555.0" y="289.2" text-anchor="middle" font-size="9" fill="#ef6c00" font-weight="normal">0.33</text>
+<text x="562.0" y="299.0" text-anchor="middle" font-size="9" fill="#ef6c00" font-weight="normal">0.33</text>
 <rect x="648" y="345.9" width="14" height="34.1" fill="#ef6c00" opacity="0.85"/>
 <text x="655.0" y="340.9" text-anchor="middle" font-size="9" fill="#ef6c00" font-weight="normal">0.13</text>
 <rect x="748" y="315.5" width="14" height="64.5" fill="#ef6c00" opacity="0.85"/>
