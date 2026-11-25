@@ -286,3 +286,13 @@ Hsiang, Burke &amp; Miguel (2013)——最后一处特别标出它的争议（�
 - 章数 26 → 25；原 4—26 章顺移为 3—25；图 3.1 → 图 2.5、表 3.1/3.2 → 表 2.5/2.6；parts.json 与接口片段 `_series/content/interpretation-*.html` 同步。
 - 跨书引用同步（《区分的语言》第 3→2 章；《只能选两样》第 26→25 章；《谁在切时间轴》3.4/3.5/第 4 章 → 2.14/2.15/第 3 章）。
 - 页数 308 → 306。
+
+## 2026-11-25　工作区清理（断舍离）
+
+派生件与旧快照不留副本；版本靠本文件与 Zenodo 记录追溯。本次删除：
+
+- `output/book-ereader.html`
+- `output/book.html`
+
+重建：`build_book.py --pdf` / `--ereader --pdf`、`build_markdown.py`、`build_epub.py`；
+论文用 `generate_publication_suite.py`。
