@@ -51,6 +51,7 @@ PY
 fi
 copy assets/svg/cover.svg     "$REL/cover.svg"
 copy assets/interpretation-tradeoff-explorer.html  "$REL/interpretation-tradeoff-explorer.html"
+copy assets/interpretation-tradeoff-reader.html    "$REL/interpretation-tradeoff-reader.html"
 
 copy docs/READERS.md          "$REL/README.md"
 copy docs/RELEASE-NOTES.md    "$REL/修订说明.md"
